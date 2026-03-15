@@ -1,0 +1,255 @@
+---
+title: "How Endotherms Regulate Temperature"
+date: 2026-03-04
+subtitle: "Term 1, Week 5, Lesson 3"
+---
+
+![Endotherm thermoregulation: cooling and warming mechanisms e.g. sweating shivering vasodilation vasoconstriction](./img/y9-thermoregulation-homeostasis-thermal-balance-body-temperature-regulation-vector-poster-heat-production-and-heat-loss-mechanisms-2YCXNKJ.jpg){fig-alt="Diagram of endotherm thermoregulation showing sweating vasodilation and shivering vasoconstriction mechanisms" width=300 fig-align="center"}
+
+## Do Now
+
+**In your book, list everything your body does in the next few minutes after you finish running 2 km on a hot day.**
+
+Think about:
+
+- what you feel,
+- what you can see on your skin,
+- how your breathing changes,
+- what you want to do next.
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. An endotherm is an animal that:
+   - A) Changes colour to absorb more solar radiation
+   - B) Relies on external heat sources for body temperature
+   - C) Generates heat internally through its own metabolism
+   - D) Only needs to eat food once per week
+
+2. Which of the following is a WA ectotherm?
+   - A) Bilby
+   - B) Laughing kookaburra
+   - C) Dugite snake
+   - D) Humpback whale
+
+3. A key advantage of endothermy over ectothermy is:
+   - A) Requiring much less food energy
+   - B) Remaining active across a wide range of external temperatures
+   - C) Having a lower resting metabolic rate
+   - D) Being better at absorbing solar radiation
+
+4. Which of the following is NOT an advantage of ectothermy?
+   - A) Lower food requirements
+   - B) Being able to remain active in cold conditions
+   - C) Long-term survival without eating during food scarcity
+   - D) Energy-efficient lifestyle
+
+5. On a graph of body temperature vs ambient temperature, the line for an endotherm would be:
+   - A) Diagonal, rising steeply with ambient temperature
+   - B) Roughly horizontal (flat), showing little change despite changing external conditions
+   - C) Curved, dropping as ambient temperature rises
+   - D) Always below the line representing ambient temperature
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) C 2) C 3) B 4) B 5) B
+:::
+
+## Learning Intentions
+
+Today we are learning how endotherms use physiological mechanisms to regulate body temperature.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Described the physiological mechanisms endotherms use to cool down (vasodilation, sweating, panting)
+  and to warm up (vasoconstriction, shivering, piloerection)
+- [ ] Explained how negative feedback via the hypothalamus maintains body temperature at the set point
+- [ ] Given at least two WA examples of endotherm thermoregulation, classifying each response as physiological or behavioural
+
+## Keywords
+
+Vasodilation
+: The widening of blood vessels near the skin surface, increasing blood flow to the skin and allowing more heat to radiate out into the surrounding environment. A cooling mechanism.
+
+Vasoconstriction
+: The narrowing of blood vessels near the skin surface, reducing blood flow to the extremities and conserving heat in the body core. A warming mechanism.
+
+Sweating
+: The secretion of water from sweat glands onto the skin surface. As water evaporates, it absorbs heat energy from the skin, cooling the body. An evaporative cooling mechanism.
+
+Shivering
+: Rapid, involuntary contractions of skeletal muscles that generate heat through increased cellular respiration. A warming mechanism.
+
+Piloerection
+: The contraction of small muscles (arrector pili) attached to hairs, causing body hairs to stand erect. This traps a layer of warm air close to the skin, providing insulation. A warming mechanism. (Produces "goosebumps" in humans.)
+
+Hypothalamus
+: A region of the brain that acts as the body's thermostat. It receives temperature signals from thermoreceptors in the skin and blood, and coordinates the appropriate physiological and behavioural responses.
+
+Negative feedback
+: A control mechanism in which the body's response to a deviation from the set point acts to oppose and reverse that deviation, returning the system to the set point.
+
+Set point
+: The optimal (target) value of a physiological variable that homeostasis aims to maintain. In most mammals, the core body temperature set point is approximately 36–38°C.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: The Thermostat Inside Every Endotherm
+
+#### The Hypothalamus — The Body's Thermostat
+
+The **hypothalamus** sits at the base of the brain and continuously monitors core body temperature using two sources:
+
+- **Peripheral thermoreceptors** in the skin detect changes in external (surface) temperature.
+- **Central thermoreceptors** in the hypothalamus itself detect changes in blood temperature.
+
+When temperature deviates from the set point, the hypothalamus coordinates a response via the nervous system and hormones.
+
+#### The Negative Feedback Loop
+
+![Negative feedback loop for thermoregulation by the hypothalamus](./img/y9-negative-feedback_med_hr.jpeg){fig-alt="Diagram of negative feedback loop for thermoregulation showing hypothalamus set point cooling and warming responses" width=600 fig-align="center"}
+
+> **Too hot → cooling responses → temperature falls → responses switch off**
+
+> **Too cold → warming responses → temperature rises → responses switch off**
+
+This is **negative feedback**: the response *negates* (opposes and reverses) the change.
+
+#### Cooling Responses (When Body Temperature Rises Above Set Point)
+
+![Endotherm cooling mechanisms such as vasodilation, sweating, panting, evaporation.](./img/y9-Sweating-and-cooling-process.png){fig-alt="Diagram of human body showing vasodilation sweating and panting as cooling mechanisms with arrows" width=560 fig-align="center"}
+
+| Mechanism        | What Happens                                    | How It Cools                                                            |
+|------------------|-------------------------------------------------|-------------------------------------------------------------------------|
+| **Vasodilation** | Blood vessels near skin widen; skin flushes red | More blood flows to skin surface; heat radiates out into environment    |
+| **Sweating**     | Sweat glands secrete water onto skin            | Evaporation of water absorbs heat energy from skin                      |
+| **Panting**      | Rapid shallow breathing through an open mouth   | Water evaporates from the moist respiratory tract; heat is carried away |
+| **Behavioural**  | Seeking shade; reducing activity                | Reduces heat input and heat production                                  |
+
+**WA Examples:**
+
+- **Red kangaroo:** licks its forearms where major blood vessels are close to the surface — saliva evaporates and cools the blood. Also pants.
+- **Bilby:** pants in its burrow; reduces activity during peak heat.
+- **Echidna:** has **no sweat glands** — cannot sweat at all. Relies entirely on behavioural thermoregulation (retreating underground, becoming inactive in heat). This makes echidnas particularly vulnerable to heatwaves.
+
+#### Warming Responses (When Body Temperature Falls Below Set Point)
+
+![Endotherm warming mechanisms such as vasoconstriction, shivering, piloerection, goosebumps.](./img/y9-warming-up-coordination-response-part-5-body-temperature-regulation-21-638.jpg){fig-alt="Diagram of human body showing vasoconstriction shivering and piloerection as warming mechanisms" width=560 fig-align="center"}
+
+| Mechanism            | What Happens                                      | How It Warms                                                      |
+|----------------------|---------------------------------------------------|-------------------------------------------------------------------|
+| **Vasoconstriction** | Blood vessels near skin narrow; skin becomes pale | Less blood at skin surface; less heat lost to environment         |
+| **Shivering**        | Rapid, involuntary muscle contractions            | Cellular respiration in muscles generates heat as a by-product    |
+| **Piloerection**     | Arrector pili muscles contract; hairs stand erect | Traps a layer of warm air against the skin (insulating air layer) |
+| **Behavioural**      | Huddling; seeking shelter; curling up             | Reduces surface area exposed to cold; shares body heat            |
+
+**WA Examples:**
+
+- **Humpback whale calves** (Kimberley breeding grounds): rely on blubber and vasoconstriction in their flippers during their first months.
+- **Quokka** (Rottnest Island): huddles in dense vegetation during cool winter nights; reduces exposed surface area.
+
+#### Fever — A Deliberate Shift in the Set Point
+
+During infection, the immune system deliberately raises the hypothalamic set point above 37°C.
+
+The body then responds as if it is "too cold" — shivering, vasoconstriction — until the new (higher) set point is reached.
+
+The elevated temperature impairs pathogen reproduction and speeds immune response. This is an *adaptive* response.
+
+#### Check for Understanding
+
+**Label the diagram below.** For each arrow, write whether it represents a cooling or warming response, and name the specific mechanism.
+
+![Blank thermoregulation negative feedback diagram student annotation cooling warming hypothalamus](./img/y9-thermoregulation-blank-feedback-diagram.png){fig-alt="Blank negative feedback loop diagram for students to annotate with cooling and warming mechanisms" width=580 fig-align="center"}
+
+---
+
+### Activity 2 — WE DO: Annotating and Applying the Negative Feedback Loop
+
+![Red kangaroo heat stress hot day panting forearm licking shade seeking WA endotherm thermoregulation](./img/y9-big-red-kangaroo-resting-huge-male-under-shade-tree-206436392-1825462288.jpg){fig-alt="Red kangaroo in open grassland on a hot day panting and seeking shade" width=580 fig-align="center"}
+
+**Scenario:** It is a 42°C day in the WA outback. A red kangaroo has been grazing in full sun. Its core body temperature is rising above 38°C.
+
+**Task 1:** On the diagram of the human/kangaroo body provided, annotate:
+
+- Where vasodilation is occurring (draw wider vessels, add arrows showing heat leaving the skin)
+- Where vasoconstriction would occur if the kangaroo were cold instead
+
+**Task 2:** Complete the negative feedback loop template for this scenario:
+
+| Step                    | Detail for this scenario                         |
+|-------------------------|--------------------------------------------------|
+| **Stimulus detected**   | Core body temperature rises above 38°C set point |
+| **Receptor**            |                                                  |
+| **Coordinator**         |                                                  |
+| **Effectors activated** |                                                  |
+| **Responses**           |                                                  |
+| **Outcome**             |                                                  |
+
+#### Discussion Questions
+
+- The echidna has no sweat glands. On a 40°C day, what strategies does it have left to prevent overheating? Are these sufficient?
+- Why does shivering *warm* you up? What is the chemical process involved?
+- During a fever, a person feels cold and shivers even though their core temperature is already above 37°C. Using the concept of set point, explain why this happens.
+
+---
+
+### Activity 3 — YOU DO: Endotherm Thermoregulation
+
+![Endotherm thermoregulation worksheet vasodilation vasoconstriction sweating shivering Year 9 biology](./img/y9-endotherm-thermoregulation-worksheet-header.png){fig-alt="Worksheet header showing diagram of endotherm body with blood vessels and sweat glands" width=580 fig-align="center"}
+
+Complete the worksheet: **153-how-endotherms-regulate-temperature-you-do.docx**
+
+You will explain the physiological and behavioural responses of a chosen WA endotherm to a temperature challenge, identify each response as physiological or behavioural, and trace a complete negative feedback loop.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. Which process involves blood vessels near the skin widening to increase heat loss?
+   - A) Vasoconstriction
+   - B) Piloerection
+   - C) Vasodilation
+   - D) Shivering
+
+2. Shivering helps an endotherm warm up because:
+   - A) It pumps more blood to the skin surface to absorb warmth
+   - B) Rapid muscle contractions generate heat through cellular respiration
+   - C) It reduces evaporative water loss through the skin
+   - D) Hairs stand up to trap a warm air layer
+
+3. The hypothalamus acts as the body's thermostat by:
+   - A) Producing sweat directly from glands in the brain
+   - B) Monitoring core body temperature and coordinating warming or cooling responses
+   - C) Dilating blood vessels directly in the skin
+   - D) Generating body heat through fat metabolism
+
+4. The red kangaroo licking its forearms on a hot day is an example of:
+   - A) A purely structural adaptation
+   - B) Piloerection
+   - C) Evaporative cooling — a combined behavioural and physiological response
+   - D) Vasoconstriction reducing blood flow to the skin
+
+5. **Short answer:** Using the concept of negative feedback, explain what happens in an endotherm's body when its core temperature rises 2°C above its set point. Name at least two specific physiological responses in your answer.
+
+---
+
+## Home-study
+
+The echidna is the only WA endotherm that cannot sweat. Research one other behavioural or physiological strategy the echidna uses to avoid overheating. Describe it in 3–4 sentences and explain whether it is structural, behavioural or physiological.

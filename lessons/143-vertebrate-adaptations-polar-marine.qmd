@@ -1,0 +1,275 @@
+---
+title: "Vertebrate Adaptations to Polar and Marine Ecosystems"
+date: 2026-02-25
+subtitle: "Term 1, Week 4, Lesson 3"
+---
+
+## Do Now
+
+Look at the image below of emperor penguins huddling in Antarctica.
+
+![Emperor penguins huddling together in a large group in an Antarctic blizzard.](./img/y9-emperor-penguins-huddling-antarctica.png){fig-alt="Emperor penguins huddling Antarctica blizzard cold survival thermoregulation behaviour" width=550 fig-align="center"}
+
+**In your book, answer the following:**
+
+1. How do you think these penguins stay warm when air temperature is −40°C?
+2. What other challenges do you think penguins face surviving in Antarctica?
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. The bilby's large ears help it survive in the desert because they:
+   - A) Improve hearing to detect predators underground
+   - B) Provide a large surface area for radiating excess body heat
+   - C) Collect dew during cool nights
+   - D) Help the bilby balance when running at speed
+
+2. Nocturnal behaviour in desert animals is classified as:
+   - A) Structural
+   - B) Physiological
+   - C) Ecological
+   - D) Behavioural
+
+3. Producing concentrated urine in desert mammals helps them:
+   - A) Stay cool during the day
+   - B) Digest food more quickly
+   - C) Conserve water in their bodies
+   - D) Attract mates
+
+4. Pale, sandy colouration in the thorny devil provides:
+   - A) Thermoregulation through heat radiation
+   - B) Camouflage against red desert soil and reflection of solar radiation
+   - C) A warning to predators about its toxic skin
+   - D) Improved water absorption from soil
+
+5. Which of the following is a physiological adaptation seen in desert vertebrates?
+   - A) Burrowing underground
+   - B) Being active only at night
+   - C) Having large external ears
+   - D) Producing concentrated urine
+
+## Learning Intentions
+
+Today we are learning about how vertebrates in polar and marine ecosystems use structural, behavioural and physiological adaptations — including insulating blubber, countercurrent heat exchange, streamlined bodies and specialised diving capacity — to survive extreme cold, deep water pressure and limited oxygen.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Described at least two polar vertebrate adaptations and explained the mechanism by which each one works
+- [ ] Described at least two marine vertebrate adaptations and explained how each improves survival
+- [ ] Compared the adaptations of polar and marine vertebrates with those of Australian desert and local species studied in previous lessons
+
+## Keywords
+
+Blubber
+: A thick layer of fat beneath the skin in marine and polar mammals and some seabirds. It provides thermal insulation against cold water and air, and also acts as an energy store during periods of food scarcity.
+
+Countercurrent heat exchange
+: A physiological mechanism in which warm blood flowing away from the body core through arteries transfers heat to the cooler blood returning from the extremities in adjacent veins. This reduces the amount of heat lost to the cold environment at the body's surface.
+
+Myoglobin
+: An oxygen-storing protein found in muscle tissue. Elevated levels in the muscles of diving mammals allow them to store significantly more oxygen, extending the time they can remain submerged.
+
+Streamlining
+: A structural adaptation in which the body is shaped to minimise resistance (drag) as the animal moves through water. A fusiform (torpedo-shaped) body is the most efficient form for aquatic locomotion.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: Surviving in Polar and Marine Environments
+
+#### The Challenges
+
+| Ecosystem | Key Challenges |
+|-----------|---------------|
+| **Polar** | Extreme cold (air: −40°C to −70°C; water: −1.8°C), blizzards, months of darkness, limited food |
+| **Marine** | Water pressure at depth, limited oxygen during dives, drag resistance when swimming, saltwater balance |
+
+---
+
+#### Polar Vertebrate Adaptations
+
+##### 1. Blubber — Emperor Penguin and Weddell Seal
+
+![Cross-section diagram of seal skin showing blubber layer insulation.](./img/y9-blubber-insulation-seal-penguin-diagram.png){fig-alt="Seal blubber insulation layer diagram cross-section polar mammal heat loss reduction" width=500 fig-align="center"}
+
+**Blubber** is a specialised subcutaneous fat layer, typically 5–10 cm thick in seals and whales, and present as a thin layer in penguins beneath dense, waterproof feathers:
+
+- Fat is an excellent **thermal insulator** because it has low thermal conductivity — it slows the rate of heat transfer from the warm body to cold surroundings.
+- Blubber also serves as an **energy reserve** during breeding seasons or long migrations when food is not available.
+- Penguin feathers trap a layer of warm air next to the skin, adding another insulating layer.
+
+**Type of adaptation:** Structural
+
+##### 2. Countercurrent Heat Exchange — Penguin Flippers and Seal Flippers
+
+![Diagram of countercurrent heat exchange in penguin flipper arteries and veins.](./img/y9-countercurrent-heat-exchange-flipper-diagram.png){fig-alt="Countercurrent heat exchange penguin flipper diagram artery vein warm cold blood physiology" width=550 fig-align="center"}
+
+This is one of the most elegant physiological mechanisms in biology:
+
+- **Arteries** (carrying warm blood from the core) and **veins** (carrying cold blood from the flipper tip) run alongside each other.
+- Heat transfers from the warm arterial blood to the cold venous blood **before** the warm blood reaches the extremity.
+- As a result, the flipper tip is cold (minimising heat loss to the water), while the returning venous blood is pre-warmed before reaching the heart.
+
+This means the penguin keeps its core warm without generating extra metabolic heat to compensate for losses through its flippers.
+
+WA connection: **Australian fur seals** (*Arctocephalus pusillus*) and **southern elephant seals** that visit WA's southern coast also use this mechanism.
+
+**Type of adaptation:** Physiological
+
+##### 3. Huddling Behaviour — Emperor Penguin
+
+![Aerial view of emperor penguin huddle showing spiral movement pattern.](./img/y9-emperor-penguin-huddle-warmth-sharing.png){fig-alt="Emperor penguin huddle spiral movement behavioural thermoregulation Antarctica survival" width=500 fig-align="center"}
+
+Emperor penguins during Antarctic winter huddling:
+
+- Groups of up to **5,000 penguins** pack together in a tight huddle.
+- The huddle core can be up to **37°C warmer** than the surrounding air.
+- Penguins on the outer edge gradually shuffle inward while those in the warm centre move outward — the huddle **rotates slowly** over time, ensuring every penguin gets time in the warm centre.
+- This cooperative behaviour can **reduce heat loss by up to 50%** compared to a solitary penguin.
+
+**Type of adaptation:** Behavioural
+
+---
+
+#### Marine Vertebrate Adaptations
+
+##### 4. Streamlined Body — Humpback Whale and Bottlenose Dolphin
+
+![Humpback whale swimming showing streamlined fusiform body shape, Western Australia coast.](./img/y9-humpback-whale-streamlined-body-wa-coast.png){fig-alt="Humpback whale streamlined body Western Australia coast migration Megaptera novaeangliae swimming" width=600 fig-align="center"}
+
+**WA connection:** Humpback whales (*Megaptera novaeangliae*) migrate along the WA coast each year, travelling between Antarctic feeding grounds and north-west WA breeding grounds near the Kimberley.
+
+- Their **fusiform (torpedo-shaped) body** tapers at both ends, minimising drag through water.
+- Forelimbs are modified into smooth **pectoral flippers** — no protruding legs or external ears.
+- Horizontal **tail flukes** provide powerful propulsion.
+
+**Type of adaptation:** Structural
+
+##### 5. Elevated Myoglobin — Weddell Seal
+
+![Weddell seal diving deep beneath Antarctic ice showing oxygen storage adaptation.](./img/y9-weddell-seal-diving-deep-ocean.png){fig-alt="Weddell seal diving oxygen storage myoglobin deep dive Antarctic ice physiology" width=450 fig-align="center"}
+
+The Weddell seal (*Leptonychotes weddellii*) can dive to **600 m** and hold its breath for **over 80 minutes**:
+
+- Muscles contain extremely high concentrations of **myoglobin**, which stores oxygen directly in muscle tissue.
+- The dark red-brown colour of their muscle tissue is due to this high myoglobin content.
+- Before a dive, the spleen contracts and releases a surge of oxygen-rich red blood cells into the bloodstream.
+- Heart rate drops dramatically during the dive (bradycardia), reducing oxygen consumption.
+
+**Type of adaptation:** Physiological
+
+##### 6. Echolocation and Tool Use — Bottlenose Dolphin (*Tursiops aduncus*)
+
+![Bottlenose dolphin at Shark Bay using a sea sponge on its rostrum as a tool.](./img/y9-shark-bay-bottlenose-dolphin-sponging-wa.png){fig-alt="Bottlenose dolphin Shark Bay sponging tool use Tursiops aduncus Western Australia Monkey Mia" width=500 fig-align="center"}
+
+**WA connection:** The bottlenose dolphins of **Shark Bay** (Monkey Mia) are famous worldwide for a unique cultural behaviour:
+
+- Some individuals carry a **marine sponge** on their rostrum (snout) while foraging along the sandy seafloor — protecting their snout from abrasion and stinging organisms.
+- This **tool use** — called "sponging" — is passed from mothers to daughters, making it a **culturally transmitted behavioural adaptation**.
+- Dolphins also use **echolocation**: they produce high-frequency clicks that bounce off objects, allowing them to navigate and hunt in murky water or total darkness.
+
+**Type of adaptation:** Behavioural (sponging; echolocation as a hunting strategy) + Physiological (production of ultrasonic clicks)
+
+---
+
+#### Summary Comparison Table
+
+| Adaptation | Ecosystem | Type | Example Animal |
+|------------|-----------|------|----------------|
+| Blubber | Polar + Marine | Structural | Emperor penguin, Weddell seal |
+| Countercurrent heat exchange | Polar + Marine | Physiological | Emperor penguin, fur seal |
+| Huddling | Polar | Behavioural | Emperor penguin |
+| Streamlined body | Marine | Structural | Humpback whale, dolphin |
+| Elevated myoglobin | Marine | Physiological | Weddell seal |
+| Echolocation | Marine | Physiological + Behavioural | Bottlenose dolphin |
+| Sponging (tool use) | Marine | Behavioural | Shark Bay bottlenose dolphin |
+
+#### Check for Understanding
+
+Look at the diagram of countercurrent heat exchange. Annotate it with:
+
+- An arrow showing where heat transfers from artery to vein
+- The word "warm" and "cool" at the appropriate end of each vessel
+- A label explaining what physiological benefit this provides to the animal
+
+---
+
+### Activity 2 — WE DO: Comparing a Polar and a Marine Vertebrate
+
+As a class, we will compare the emperor penguin (polar) with the humpback whale (marine).
+
+![Emperor penguin and humpback whale comparison — adaptations side by side.](./img/y9-emperor-penguin-humpback-whale-comparison.png){fig-alt="Emperor penguin Antarctica humpback whale ocean comparison adaptations side by side" width=650 fig-align="center"}
+
+#### Guided Comparison Table
+
+|  | Emperor Penguin | Humpback Whale |
+|--|-----------------|----------------|
+| **Ecosystem** | | |
+| **Key structural adaptation** | | |
+| **Key physiological adaptation** | | |
+| **Key behavioural adaptation** | | |
+| **Main survival challenge addressed** | | |
+
+#### Discussion Questions
+
+- Both the penguin and the seal have blubber. Does this mean they are closely related? What term describes organisms that evolve similar traits independently? (Hint: check next lesson's vocabulary.)
+- How does the humpback whale's Kimberley breeding ground compare to its Antarctic feeding ground in terms of temperature and food availability?
+- The Shark Bay dolphins' sponging behaviour is described as "culturally transmitted". What does this mean, and how is it different from a genetic adaptation?
+
+---
+
+### Activity 3 — YOU DO: Vertebrate Adaptations to Polar and Marine Ecosystems
+
+Complete the worksheet: **143-vertebrate-adaptations-polar-marine-you-do.docx**
+
+You will explain two polar and two marine adaptations in your own words, and compare one marine WA vertebrate with a desert WA vertebrate studied in the previous lesson.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. Blubber is classified as which type of adaptation?
+   - A) Behavioural
+   - B) Structural
+   - C) Physiological
+   - D) Ecological
+
+2. Countercurrent heat exchange in penguin flippers works by:
+   - A) Pumping blood faster through the flippers in cold water
+   - B) Warm arterial blood transferring heat to cold venous blood before it reaches the extremity
+   - C) The flippers absorbing warmth from the surrounding water
+   - D) Reducing blood flow to the flippers completely when the penguin is cold
+
+3. Elevated myoglobin levels in diving mammals allow them to:
+   - A) Swim faster
+   - B) Stay warm in cold water
+   - C) Store more oxygen in muscle tissue
+   - D) Echolocate more effectively
+
+4. Which WA location is famous for a population of bottlenose dolphins that use sea sponges as tools?
+   - A) Ningaloo Reef
+   - B) Shark Bay
+   - C) Rottnest Island
+   - D) Esperance Bay
+
+5. **Short answer:** Explain why countercurrent heat exchange is classified as a physiological adaptation rather than a structural one. In your answer, describe the mechanism by which it works.
+
+---
+
+## Home-study
+
+Research one other marine mammal (not mentioned in today's lesson) that uses a physiological adaptation to help it survive. Describe the adaptation and explain how it works. Write your answer in 3–4 sentences. Mention whether the animal has any connection to WA waters.

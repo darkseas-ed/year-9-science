@@ -1,0 +1,122 @@
+---
+title: "Review of Week 1 Concepts"
+date: 2026-02-09
+subtitle: "Term 1, Week 2, Lesson 1"
+---
+
+## Do Now
+
+1. Write down the definition of an **ecosystem** in your own words.
+2. List two **biotic** factors and two **abiotic** factors you might find in a local park.
+3. Why is species diversity important for an ecosystem? Write one sentence explaining your thinking.
+
+## Daily Review
+
+1. What is the term for a community of living organisms interacting with their non-living environment?
+   - A) Habitat
+   - B) Ecosystem
+   - C) Biome
+   - D) Population
+
+2. Which of the following is an **abiotic** factor?
+   - A) Grass
+   - B) Bacteria
+   - C) Sunlight
+   - D) Earthworms
+
+3. A producer in an ecosystem is an organism that:
+   - A) Hunts other organisms for food
+   - B) Breaks down dead organic matter
+   - C) Makes its own food using energy from the sun
+   - D) Feeds on other consumers
+
+4. Which of the following is an example of a **biotic** factor?
+   - A) Temperature
+   - B) Rainfall
+   - C) Decomposers
+   - D) Soil pH
+
+5. Species diversity refers to:
+   - A) The total number of individual organisms in an ecosystem
+   - B) The variety of different species found in an ecosystem
+   - C) The number of abiotic factors in an environment
+   - D) The size of a habitat
+
+## Learning Intentions
+
+Today we are learning to consolidate our understanding of ecosystems, biotic and abiotic factors, and species diversity through retrieval practice and application.
+
+## Success Criteria
+
+- [ ] Define the terms ecosystem, biotic factor, and abiotic factor
+- [ ] Describe how biotic and abiotic factors interact within an ecosystem
+- [ ] Apply knowledge of ecosystem components to classify examples from Australian environments
+
+## Keywords
+
+ecosystem
+: A community of living organisms interacting with each other and their non-living environment.
+
+biotic factor
+: A living component of an ecosystem (e.g. plants, animals, bacteria).
+
+abiotic factor
+: A non-living component of an ecosystem (e.g. temperature, water, sunlight, soil).
+
+species diversity
+: The variety of different species found within an ecosystem.
+
+producer
+: An organism that makes its own food, usually through photosynthesis.
+
+consumer
+: An organism that obtains energy by eating other organisms.
+
+decomposer
+: An organism that breaks down dead organic matter, recycling nutrients back into the ecosystem.
+
+## Learning Activities
+
+### Activity 1 — I DO: Ecosystem Recap
+
+**Teacher-led recap of Week 1 concepts using annotated images of Australian ecosystems.**
+
+Key points to cover:
+
+- **Ecosystem definition:** A community of living organisms interacting with each other and their non-living environment. Emphasise that ecosystems include both biotic and abiotic components working together.
+- **Biotic factors:** Producers (e.g. eucalyptus trees, seagrass), consumers (e.g. kangaroos, parrotfish), and decomposers (e.g. fungi, bacteria). Use images from the Great Barrier Reef and jarrah forest to illustrate.
+- **Abiotic factors:** Temperature, water availability, sunlight, soil type, salinity. Show how these differ between a reef ecosystem and a desert ecosystem.
+- **Species diversity:** A measure of ecosystem health — ecosystems with greater species diversity tend to be more resilient to change. Compare species diversity of Australian bushland, coral reef, and arid desert environments.
+- **Interactions:** How changes to one factor (biotic or abiotic) can have flow-on effects. For example, reduced rainfall (abiotic) affects plant growth (biotic), which affects herbivore populations (biotic).
+
+**Check for Understanding:**
+
+![Mangrove ecosystem.](./img/y9-ecosystem-abiotic-factors.webp){fig-alt="Australian ecosystems showing biotic and abiotic factors" width=600 fig-align="center"}
+
+Think-Pair-Share: "Give me one example of a biotic factor interacting with an abiotic factor."
+
+### Activity 2 — Adaptations
+
+**Presentation**
+
+### Activity 3 — YOU DO: Abiotic Change Paragraph
+
+**Write a short paragraph (5–7 sentences) explaining how a change to one abiotic factor could affect biotic factors in a local ecosystem.**
+
+Prompt: *Imagine that rainfall in a jarrah forest in south-west Western Australia decreased by 50% over several years. Explain how this abiotic change could affect the biotic factors in this ecosystem. Consider the effects on producers, consumers, and decomposers.*
+
+Structure your paragraph using the following guide:
+
+1. Identify the abiotic factor and the ecosystem.
+2. Explain the direct effect on producers.
+3. Explain the flow-on effect to primary consumers.
+4. Explain the flow-on effect to secondary consumers or decomposers.
+5. Comment on what this might mean for species diversity.
+
+## Reflection
+
+1. Define the term "ecosystem" in one sentence.
+2. Give one example of a biotic factor interacting with an abiotic factor in an Australian ecosystem.
+3. A bushfire destroys much of the vegetation in a national park. Explain one way this could affect the consumers in that ecosystem.
+4. True or False: An ecosystem with low species diversity is more resilient to environmental change.
+5. Name two abiotic factors that would differ between a coral reef and a desert ecosystem.

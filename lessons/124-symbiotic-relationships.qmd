@@ -1,0 +1,170 @@
+---
+title: "Symbiotic Relationships"
+date: 2026-02-12
+subtitle: "Term 1, Week 2, Lesson 4"
+---
+
+## Do Now
+
+Read the scenario below and answer the questions.
+
+> A small bird called an oxpecker sits on the back of a large buffalo. The oxpecker eats ticks and parasites from the buffalo's skin. The buffalo has fewer parasites as a result.
+
+1. Which organism benefits from this relationship?
+2. Is either organism harmed? Explain.
+3. What would you call this type of relationship? Make your best prediction.
+
+## Daily Review
+
+1. An interaction where one organism hunts and consumes another is called:
+   - A) Competition
+   - B) Symbiosis
+   - C) Predation
+   - D) Decomposition
+
+2. Which of the following is a **prey** adaptation?
+   - A) Sharp claws for catching food
+   - B) Venom to immobilise prey
+   - C) Warning colouration to deter predators
+   - D) Speed for chasing down prey
+
+3. In a predator-prey graph, when the prey population increases, what typically happens to the predator population shortly after?
+   - A) It decreases immediately
+   - B) It increases after a time lag
+   - C) It stays the same
+   - D) It drops to zero
+
+4. Competition between members of **different** species is called:
+   - A) Intraspecific competition
+   - B) Predation
+   - C) Interspecific competition
+   - D) Mutualism
+
+5. Which of the following best describes the competitive exclusion principle?
+   - A) All species in an ecosystem must compete
+   - B) Predators always exclude prey from an area
+   - C) Two species competing for the same niche cannot coexist indefinitely
+   - D) Competition always leads to extinction
+
+## Learning Intentions
+
+Today we are learning about the three types of symbiotic relationships and evaluating their effects on the organisms involved.
+
+## Success Criteria
+
+- [ ] Define symbiosis and distinguish between mutualism, commensalism, and parasitism
+- [ ] Describe real-world examples of each type of symbiotic relationship
+- [ ] Evaluate how symbiotic relationships contribute to the stability and biodiversity of ecosystems
+
+## Keywords
+
+symbiosis
+: A close, long-term interaction between two different species living in close association.
+
+mutualism
+: A symbiotic relationship where **both** organisms benefit.
+
+commensalism
+: A symbiotic relationship where **one** organism benefits and the other is **unaffected**.
+
+parasitism
+: A symbiotic relationship where **one** organism benefits at the **expense** of the other (the host).
+
+host
+: The organism that a parasite lives on or in.
+
+parasite
+: An organism that lives on or in a host and benefits at the host's expense.
+
+## Learning Activities
+
+### Activity 1 — I DO: The Three Types of Symbiosis
+
+**Teacher introduces mutualism, commensalism, and parasitism with definitions and Australian examples.**
+
+**Symbiosis** means "living together" — it describes any close, long-term relationship between two different species. There are three main types:
+
+**1. Mutualism (+/+) — Both organisms benefit**
+
+- Clownfish and sea anemone: The clownfish is protected by the anemone's stinging tentacles; the clownfish drives away butterfly fish that would eat the anemone.
+- Bees and flowering plants: Bees get nectar for food; plants get pollinated.
+- Mycorrhizal fungi and eucalyptus roots: The fungus helps the tree absorb water and nutrients; the tree provides sugars to the fungus.
+
+**2. Commensalism (+/0) — One benefits, the other is unaffected**
+
+- Remora fish and sharks: The remora attaches to the shark and feeds on scraps; the shark is unaffected.
+- Epiphytic orchids on rainforest trees: The orchid gets a position high in the canopy for better light; the tree is unaffected.
+- Cattle egrets and livestock: The egret eats insects disturbed by grazing cattle; the cattle are unaffected.
+
+**3. Parasitism (+/−) — One benefits, the other is harmed**
+
+- Ticks on kangaroos: The tick feeds on the kangaroo's blood; the kangaroo may lose condition or contract disease.
+- Mistletoe on eucalyptus: The mistletoe takes water and nutrients from the tree; the tree is weakened.
+- Tapeworms in mammals: The tapeworm absorbs nutrients from the host's digestive system; the host may become malnourished.
+
+**Benefit/Harm Summary Table:**
+
+| Type | Organism A | Organism B |
+|------|-----------|-----------|
+| Mutualism | Benefits (+) | Benefits (+) |
+| Commensalism | Benefits (+) | Unaffected (0) |
+| Parasitism | Benefits (+) | Harmed (−) |
+
+**Check for Understanding:** Students hold up cards labelled **M**, **C**, or **P** for quick-fire scenarios read aloud by the teacher.
+
+![Diagram showing the three types of symbiotic relationships with examples.](./img/symbiosis-types-mutualism-commensalism-parasitism.png){fig-alt="Diagram showing the three types of symbiotic relationships with examples" width=600 fig-align="center"}
+
+### Activity 2 — WE DO: Symbiosis Sorting Activity
+
+**In small groups, students sort symbiosis scenario cards and complete a summary table.**
+
+Instructions:
+
+1. Each group receives a set of 9 scenario cards describing symbiotic relationships.
+2. Read each card carefully and sort it into one of three categories: **Mutualism**, **Commensalism**, or **Parasitism**.
+3. For each card, complete the summary table below.
+
+| Scenario | Type of Symbiosis | Organism A Benefit/Harm | Organism B Benefit/Harm |
+|----------|------------------|------------------------|------------------------|
+| Clownfish living among sea anemone tentacles | | | |
+| Fleas feeding on a dog's blood | | | |
+| Barnacles growing on a whale's skin | | | |
+| Bees collecting nectar from flowers | | | |
+| Leeches attached to a freshwater turtle | | | |
+| Small birds nesting in the branches of a large tree | | | |
+| Mycorrhizal fungi on plant roots | | | |
+| Mistletoe growing on a eucalyptus tree | | | |
+| Cattle egrets following grazing cattle | | | |
+
+4. As a group, discuss: Which relationships were the hardest to classify? Why?
+5. Choose one relationship to present to the class — explain your reasoning for the classification.
+
+### Activity 3 — YOU DO: Australian Symbiosis Research
+
+**Students independently research one Australian symbiotic relationship and write a short explanation.**
+
+Choose **one** of the following Australian symbiotic relationships to research (or choose your own with teacher approval):
+
+- Cleaner wrasse and reef fish on the Great Barrier Reef
+- Mistletoe and eucalyptus trees
+- Wombats and their gut microbes
+- Ticks and kangaroos
+- Fig wasps and fig trees
+- Remora fish and manta rays
+
+Write a response (8–10 sentences) that includes:
+
+1. The names of the two organisms involved.
+2. A description of the relationship — what does each organism do?
+3. Classification: Is this mutualism, commensalism, or parasitism? Justify your choice.
+4. How does each organism benefit or suffer? Use (+), (0), or (−) notation.
+5. Explain why this relationship is important for the broader ecosystem.
+
+## Reflection
+
+1. Define **symbiosis** in one sentence.
+2. What is the key difference between mutualism and commensalism?
+3. A tick feeds on the blood of a kangaroo. Classify this relationship and explain your reasoning.
+4. Give one example of **mutualism** found in Australian ecosystems.
+5. Explain how symbiotic relationships can contribute to the **stability** of an ecosystem. Use an example in your answer.
+6. **Extended response:** Compare mutualism and parasitism. In your answer, define each type, provide one example of each, and explain how the organisms are affected differently.

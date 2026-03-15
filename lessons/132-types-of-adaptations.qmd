@@ -1,0 +1,216 @@
+---
+title: "Types of Adaptations"
+date: 2026-02-17
+subtitle: "Term 1, Week 3, Lesson 2"
+---
+
+## Do Now
+
+In your book, answer these questions:
+
+1. **Write down your definition of an adaptation from last lesson.**
+2. **Predict: What are three different ways an organism could be adapted to its environment?**
+
+You have 3 minutes.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. An adaptation is best described as:
+   - A) A temporary change in an organism
+   - B) An inherited trait that helps an organism survive and reproduce
+   - C) Any behaviour an animal performs
+   - D) A feature that makes an organism look different
+
+2. Which of the following is an example of an adaptation?
+   - A) A dog learning to shake hands
+   - B) A person getting a sunburn
+   - C) A banksia's woody follicles opening after fire
+   - D) A broken wing on a bird
+
+3. Adaptations develop through:
+   - A) Individual effort during an organism's lifetime
+   - B) Natural selection over many generations
+   - C) Random chance in a single generation
+   - D) Training by parent organisms
+
+4. The dugong's streamlined body is an adaptation because it:
+   - A) Makes the dugong look attractive
+   - B) Helps it move efficiently through water to reach seagrass
+   - C) Protects it from sunburn
+   - D) Was learned from other dugongs
+
+5. Which of the following is NOT an adaptation?
+   - A) A thorny devil's spiny skin
+   - B) A boab tree's swollen trunk
+   - C) A scar on a kangaroo's leg
+   - D) A bilby's large ears
+
+## Learning Intentions
+
+Today we are learning about the three types of adaptations — structural, behavioural, and physiological — and how to classify examples of each.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined structural, behavioural, and physiological adaptations
+- [ ] Classified given examples of adaptations into the correct category
+- [ ] Explained how each type of adaptation contributes to an organism's survival in its environment
+
+## Keywords
+
+Structural adaptation
+: A physical feature of an organism's body that helps it survive in its environment. Examples include body shape, colour, and protective coverings.
+
+Behavioural adaptation
+: An action or pattern of behaviour that an organism performs to increase its chances of survival. Examples include migration, nocturnal activity, and hibernation.
+
+Physiological adaptation
+: An internal body process or function that helps an organism survive. Examples include the ability to produce venom, regulate body temperature, or produce concentrated urine.
+
+## Learning Activities
+
+### Activity 1 — I DO: The Three Types of Adaptations
+
+All adaptations can be grouped into three categories: **structural**, **behavioural**, and **physiological**. Understanding these categories helps us describe and compare how different organisms are suited to their environments.
+
+![Three types of adaptations: structural, behavioural, and physiological.](./img/y9-AdaptationsTypesSubtypesExamples-1-sshle1d.jpg){fig-alt="Diagram showing three types of adaptations with examples" width=600 fig-align="center"}
+
+#### Structural Adaptations
+
+**Structural adaptations** are physical features of an organism's body. You can usually **see** a structural adaptation by looking at the organism.
+
+| Organism | Structural Adaptation | How It Helps |
+|----------|----------------------|--------------|
+| **Platypus** | Electro-sensitive bill | Detects electrical signals from prey in murky water |
+| **Jarrah tree** | Thick, rough bark | Protects the trunk from damage during bushfires |
+| **Thorny devil** | Spiny body with grooved scales | Spines deter predators; grooves channel water to the mouth |
+| **Wedge-tailed eagle** | Large wingspan (up to 2.3 m) | Soars on thermal currents to scan large areas for prey |
+| **Wattle (Acacia)** | Flattened leaf stalks (phyllodes) instead of true leaves | Reduces water loss while still performing photosynthesis |
+
+![Platypus bill electroreception underwater hunting.](./img/y9-platypus-3-2087997775.jpg){fig-alt="Platypus showing electroreceptive bill" width=400 fig-align="center"}
+
+#### Behavioural Adaptations
+
+**Behavioural adaptations** are actions an organism performs to survive. These are things an organism **does**, not what it **looks like**.
+
+| Organism | Behavioural Adaptation | How It Helps |
+|----------|----------------------|--------------|
+| **Bilby** | Nocturnal (active at night) | Avoids extreme daytime desert heat |
+| **Humpback whale** | Annual migration along the WA coast | Travels to warm tropical waters to breed and calve |
+| **Honey possum** | Follows flowering seasons of banksia and other plants | Ensures a continuous food supply of nectar and pollen |
+| **Thorny devil** | Rocks back and forth while walking | Confuses predators, making it harder to catch |
+| **Bowerbird** | Builds and decorates elaborate bowers | Attracts mates for reproduction |
+
+![Bilby nocturnal burrow night Australia.](./img/y9-bilby-e205687133a927c3c9f3fc641df67061-2968246624.jpg){fig-alt="Bilby emerging from burrow at night" width=400 fig-align="center"}
+
+#### Physiological Adaptations
+
+**Physiological adaptations** are internal body processes. You usually **cannot see** a physiological adaptation just by looking at the organism — it happens inside the body.
+
+| Organism | Physiological Adaptation | How It Helps |
+|----------|------------------------|--------------|
+| **Red kangaroo** | Produces highly concentrated urine | Conserves water in arid environments |
+| **Western brown snake** | Produces potent venom | Subdues prey quickly and efficiently |
+| **Eucalyptus** | Produces toxic oils in leaves | Deters most herbivores from eating the leaves |
+| **Spinifex grass** | Tolerates extremely low soil nutrients | Survives in poor desert soils where other plants cannot |
+| **Saltbush** | Accumulates salt in special bladder cells on leaves | Tolerates high-salinity soils in arid areas |
+
+![Red kangaroo in arid outback environment.](./img/132-kangaroo-outback.png){fig-alt="Red kangaroo in arid outback environment" width=400 fig-align="center"}
+
+#### Can Adaptations Fit More Than One Category?
+
+Sometimes an adaptation could be classified in more than one way. For example: a **thorny devil collecting water** through its skin grooves involves both a structural feature (the grooves) and a physiological process (capillary action moving the water).
+
+The key is to understand **the mechanism** — is it about the body's physical shape, an action the organism performs, or an internal process?
+
+#### Check for Understanding
+
+**Quick check:** Hold up your card — S (structural), B (behavioural), or P (physiological):
+
+1. A kangaroo's strong hind legs → ___
+2. A bilby sleeping during the day → ___
+3. A snake producing venom → ___
+4. A bird migrating south for winter → ___
+5. A cactus with a thick, waxy stem → ___
+
+*Answers: 1. S, 2. B, 3. P, 4. B, 5. S*
+
+---
+
+### Activity 2 — WE DO: Adaptation Card Sort
+
+In pairs, you will receive a set of 12 adaptation cards. Sort each card into the correct category.
+
+#### Record your answers in the table below:
+
+| # | Adaptation | Structural | Behavioural | Physiological | Justification |
+|---|-----------|:----------:|:-----------:|:-------------:|---------------|
+| 1 | Echidna curls into a ball when threatened | | | | |
+| 2 | Boab tree stores water in its trunk | | | | |
+| 3 | Quokka is active mainly at night | | | | |
+| 4 | Eucalyptus produces toxic oils | | | | |
+| 5 | Emu has strong legs for running | | | | |
+| 6 | Saltwater crocodile lies still to ambush prey | | | | |
+| 7 | Kangaroo paw has furry covering on flowers | | | | |
+| 8 | Dolphin uses echolocation | | | | |
+| 9 | Frill-necked lizard spreads its frill | | | | |
+| 10 | Banksia has proteoid roots for nutrient uptake | | | | |
+| 11 | Kookaburra calls at dawn to defend territory | | | | |
+| 12 | Desert frog stores water in its bladder | | | | |
+
+#### Class Discussion
+
+- Which cards caused disagreement in your pair? Why?
+- Were there any adaptations that could fit into more than one category?
+- How did you decide which category was the best fit?
+
+---
+
+### Activity 3 — YOU DO: Classifying Adaptations
+
+Complete the worksheet: **132-types-of-adaptations-you-do.docx**
+
+You will classify a new set of adaptations, identify the category, and write a brief justification for each.
+
+Work independently. You have 10 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. A physical feature of an organism that helps it survive is called a:
+   - A) Behavioural adaptation
+   - B) Structural adaptation
+   - C) Physiological adaptation
+   - D) Learned behaviour
+
+2. A bilby being active at night is an example of which type of adaptation?
+   - A) Structural
+   - B) Physiological
+   - C) Behavioural
+   - D) None of the above
+
+3. Which of the following is a physiological adaptation?
+   - A) A bird building a nest
+   - B) A lizard with camouflage colouring
+   - C) A snake producing venom
+   - D) An emu running from a predator
+
+4. A student says: "A kangaroo's strong legs are a behavioural adaptation because it uses them to hop." Is the student correct? Explain your reasoning.
+
+5. Compare structural and physiological adaptations. How are they different? Give one example of each.
+
+---
+
+## Home-study
+
+Choose an Australian organism and identify one adaptation of each type (structural, behavioural, physiological). For each, write one sentence explaining how it helps the organism survive.

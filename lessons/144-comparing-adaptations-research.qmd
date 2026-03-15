@@ -1,0 +1,166 @@
+---
+title: "Comparing Adaptations: Research and Presentation"
+date: 2026-02-26
+subtitle: "Term 1, Week 4, Lesson 4"
+---
+
+## Do Now — Retrieval Quiz
+
+Answer the following 5 retrieval questions in your book. These cover content from **Lessons 9–15**:
+
+1. Name one **plant adaptation** to nutrient-poor soils in south-west WA and classify it as structural, behavioural or physiological.
+
+2. What type of adaptation is the **lignotuber**, and which common WA tree has one?
+
+3. Name one **behavioural adaptation** of the bilby and explain how it helps the animal survive.
+
+4. Describe what **countercurrent heat exchange** is and which type of adaptation it represents.
+
+5. What is the name of the dolphin behaviour observed at **Shark Bay** in which individuals use a sponge as a tool?
+
+*Take 5 minutes. You may not use your notes.*
+
+## Learning Intentions
+
+Today we are learning how to research, compare and explain the adaptations of organisms from two contrasting ecosystems, using evidence to justify how each adaptation improves survival.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Identified and correctly classified adaptations (structural, behavioural, physiological) from organisms in at least two contrasting ecosystems
+- [ ] Explained how each adaptation improves the organism's chance of survival in its specific environment
+- [ ] Presented your findings in a structured format (comparison table, annotated diagram or written comparison) using accurate scientific vocabulary
+
+## Keywords
+
+Convergent evolution
+: The process by which organisms from different evolutionary lineages independently develop similar adaptations in response to similar environmental challenges. For example, both dolphins (mammals) and sharks (fish) have evolved streamlined, torpedo-shaped bodies for efficient movement through water.
+
+Ecosystem
+: A community of living organisms interacting with each other and with the non-living (abiotic) components of their environment. Examples studied this term: jarrah forest, kwongan heathland, desert, marine, polar.
+
+Adaptation
+: An inherited characteristic — structural, behavioural or physiological — that improves an organism's ability to survive and reproduce in its environment.
+
+Evidence-based explanation
+: An explanation that links a specific adaptation to a specific environmental challenge and explains the *mechanism* by which the adaptation helps (not just *that* it helps).
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: How to Compare Adaptations Across Ecosystems
+
+#### Review: Three Types of Adaptation
+
+| Type | Definition | Example |
+|------|-----------|---------|
+| **Structural** | A physical feature of the organism's body | Blubber, sclerophyllous leaves, streamlined body |
+| **Behavioural** | An action or activity the organism performs | Huddling, nocturnal foraging, sponging |
+| **Physiological** | An internal body process or chemical response | Concentrated urine production, countercurrent heat exchange, elevated myoglobin |
+
+#### What Makes a Good Adaptation Comparison?
+
+A strong comparison doesn't just list features — it explains **why** each adaptation matters. Use this structure:
+
+> **[Animal/plant]** has **[adaptation]**, which is a **[structural / behavioural / physiological]** adaptation. In **[ecosystem]**, the main challenge is **[challenge]**. This adaptation helps because **[mechanism / explanation]**.
+
+**Worked Example: Bilby vs Emperor Penguin**
+
+|  | Bilby (*Macrotis lagotis*) | Emperor Penguin (*Aptenodytes forsteri*) |
+|--|---------------------------|------------------------------------------|
+| **Ecosystem** | Hot arid desert (Kimberley, WA) | Antarctic polar (−40°C, blizzards) |
+| **Structural adaptation** | Large pinnae (ears) for heat radiation | Dense, layered waterproof feathers + blubber |
+| **Behavioural adaptation** | Nocturnal; retreats to deep burrows by day | Huddling — rotates through group for shared warmth |
+| **Physiological adaptation** | Concentrated urine production | Countercurrent heat exchange in flippers |
+| **Main survival challenge** | Extreme heat and water scarcity | Extreme cold and heat loss |
+
+#### Convergent Evolution — Similar Problems, Similar Solutions
+
+![Convergent evolution of streamlined body shape in dolphin, shark and ichthyosaur.](./img/y9-convergent-evolution-dolphin-shark-ichthyosaur.png){fig-alt="Diagram showing convergent evolution of streamlined body shape in dolphin, shark and ichthyosaur" width=600 fig-align="center"}
+
+- A **dolphin** (mammal), a **shark** (fish) and an **ichthyosaur** (extinct reptile) all evolved the same torpedo-shaped body, despite being completely unrelated.
+- This is **convergent evolution**: the same environmental challenge (moving efficiently through water) drove the same solution (streamlining) in different lineages.
+- Recognising convergent evolution helps us understand *why* an adaptation evolved, not just *that* it exists.
+
+---
+
+### Activity 2 — WE DO: Building Your Comparison (Pairs)
+
+With a partner, choose **two contrasting ecosystems** from the list below:
+
+| Option | Ecosystem A | Ecosystem B |
+|--------|-------------|-------------|
+| 1 | Australian desert (Kimberley / Pilbara / arid WA) | Antarctic polar |
+| 2 | South-west WA jarrah forest | Australian desert |
+| 3 | Marine (open ocean / Shark Bay) | Antarctic polar |
+| 4 | South-west WA kwongan heathland | Tropical marine (Kimberley coast) |
+
+Using your notes, textbook and any classroom resources provided, begin completing the **comparison table** on your worksheet (**144-comparing-adaptations-research-you-do.docx**).
+
+For each ecosystem, choose **one organism** and find: one structural adaptation, one behavioural adaptation, and one physiological adaptation.
+
+Be ready to explain each one using the structure modelled in the I DO.
+
+![Contrasting ecosystems collage — desert, jarrah forest, polar and marine.](./img/y9-ecosystem-contrast-collage-wa-polar.png){fig-alt="Collage of four contrasting ecosystem images including desert, jarrah forest, polar and marine" width=650 fig-align="center"}
+
+---
+
+### Activity 3 — YOU DO: Independent Research and Written Comparison
+
+Complete the worksheet: **144-comparing-adaptations-research-you-do.docx**
+
+Working **independently**, you will:
+
+1. Finalise your comparison table for the two ecosystems you chose with your partner.
+
+2. Write a **conclusion** of 4–6 sentences that answers the following question:
+
+   > *Which of your two ecosystems do you think presents the **greater survival challenge** for organisms living there? Use evidence from your comparison — at least two specific adaptations — to justify your answer.*
+
+Use accurate scientific vocabulary in your conclusion. Refer to adaptation type (structural / behavioural / physiological) and explain the *mechanism*, not just the *outcome*.
+
+You have **15 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points or ideas from today's lesson.
+
+---
+
+## Reflection
+
+1. Blubber in seals and thick subcutaneous fat in camels serve a similar function of energy storage and insulation. This is an example of:
+   - A) Predation
+   - B) Convergent evolution
+   - C) Mutualism
+   - D) Competition
+
+2. A structural adaptation seen in BOTH polar and marine vertebrates is:
+   - A) Echolocation
+   - B) Huddling behaviour
+   - C) A streamlined, fusiform body shape
+   - D) Producing concentrated urine
+
+3. Which of the following correctly identifies the type of adaptation?
+   - A) Nocturnal behaviour in the bilby = physiological
+   - B) Countercurrent heat exchange in penguin flippers = structural
+   - C) Blubber in seals = structural
+   - D) Serotinous follicles in banksia = behavioural
+
+4. Which WA ecosystem studied this term is famous for dolphins that use sea sponges as tools?
+   - A) Ningaloo Reef
+   - B) Shark Bay
+   - C) Rottnest Island
+   - D) The Kimberley coast
+
+5. **Short answer:** Choose **any two organisms** studied in Weeks 3 or 4 of this unit. Explain one way in which their adaptations are **similar**, despite the fact that they live in very different ecosystems. Use the term *convergent evolution* in your answer if appropriate.
+
+---
+
+## Home-study
+
+Reflection on the unit so far: Write 4–5 sentences summarising the most important idea you have learned in Weeks 3–4 about adaptations. Explain why you think this is the most important concept, and give one example from a WA species to support your point.

@@ -1,0 +1,264 @@
+---
+title: "Comparing Heat Transfer in Endotherms and Ectotherms"
+date: 2026-03-09
+subtitle: "Term 1, Week 6, Lesson 1"
+---
+
+![Kangaroo evaporative cooling lizard basking rock conduction radiation heat transfer thermoregulation Western Australia](./img/y9-heat-transfer-suite.png){fig-alt="Composite image showing a kangaroo panting, a lizard basking on a rock, and a penguin huddling — illustrating contrasting heat transfer strategies" width=620 fig-align="center"}
+
+## Do Now
+
+Look at the following descriptions of two WA animals on a hot summer afternoon (40°C):
+
+- **Animal A:** A red kangaroo stands in partial shade and repeatedly licks the inside of its forearms, then holds them out in the breeze.
+- **Animal B:** A bobtail lizard retreats from open ground to shelter under a granite boulder, pressing its body flat against the cooler underside of a rock.
+
+In your book, answer these questions:
+
+1. What is each animal trying to achieve by doing this?
+2. Which animal do you think is generating its own body heat, and which one is relying on the environment?
+3. Can you name the process by which the kangaroo's licking helps it cool down?
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. An animal that maintains a stable internal body temperature by generating its own metabolic heat is called:
+   - A) An ectotherm
+   - B) A thermoconformer
+   - C) An endotherm
+   - D) A poikilotherm
+
+2. Which of the following is a WA ectotherm?
+   - A) Bilby
+   - B) Laughing kookaburra
+   - C) Echidna
+   - D) Dugite snake
+
+3. Why does a western blue-tongue lizard become sluggish on a cold winter morning?
+   - A) It hibernates during winter and is not fully awake
+   - B) Its body temperature falls with the environment, slowing enzyme activity
+   - C) It conserves energy by reducing its metabolic rate deliberately
+   - D) Its muscles are too large to work efficiently in cold weather
+
+4. Homeostasis refers to:
+   - A) The process of adapting to a new environment over generations
+   - B) Maintaining a stable internal environment despite external changes
+   - C) The growth of plant roots toward water
+   - D) The response of an organism to a sudden predator
+
+5. Which of the following correctly describes a disadvantage of endothermy?
+   - A) The animal cannot remain active in cold conditions
+   - B) The animal's enzyme function varies with environmental temperature
+   - C) The animal requires a much higher daily food intake than an ectotherm of similar size
+   - D) The animal cannot regulate its own body temperature
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) C 2) D 3) B 4) B 5) C
+:::
+
+## Learning Intentions
+
+Today we are learning to identify the four physical mechanisms of heat transfer, and explain how both endotherms and ectotherms use each mechanism — in different proportions — to regulate body temperature.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined conduction, convection, radiation and evaporation and given a biological example of each in a thermoregulation context
+- [ ] Explained how endotherms primarily use evaporation and insulation (convection) to manage heat, while ectotherms rely more heavily on conduction and radiation from external sources
+- [ ] Analysed a given scenario and correctly identified which heat transfer mechanism(s) are operating
+
+## Keywords
+
+Conduction
+: The transfer of heat energy by direct contact between objects at different temperatures. Heat flows from the warmer object to the cooler one. Example: a bobtail lizard absorbing heat by pressing its belly against a sun-warmed rock.
+
+Convection
+: The transfer of heat through the movement of a fluid (air or water). In thermoregulation, insulating layers (fur, feathers, fat) trap still air or water, reducing convective heat loss to the environment. Example: a bilby's fur trapping warm air close to its skin on a cold desert night.
+
+Radiation
+: The transfer of heat energy as infrared electromagnetic radiation, without requiring a medium. All warm objects emit radiation. Example: a dugite snake absorbing solar radiation while basking in the morning sun; a kangaroo radiating heat from its large ears.
+
+Evaporation
+: Heat is absorbed from the body's surface as liquid water changes to water vapour, causing cooling. Example: a red kangaroo sweating and licking its sparsely furred forearms to maximise evaporative cooling.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: How Heat Moves — Four Mechanisms
+
+#### The Problem of Heat Management
+
+Both endotherms and ectotherms face the same physical challenge: heat always moves from warmer regions to cooler ones. The difference lies in *where* each type of animal gets its heat and *which mechanisms* it uses most.
+
+There are only **four ways** heat can move between an animal and its environment:
+
+![Four mechanisms heat transfer conduction convection radiation evaporation biology thermoregulation diagram](./img/y9-heat-transfer-four-mechanisms.png){fig-alt="Diagram showing the four mechanisms of heat transfer — conduction, convection, radiation and evaporation — with arrows indicating direction of heat flow in a biological context" width=620 fig-align="center"}
+
+#### 1. Conduction
+
+Heat transfers by **direct physical contact**. The rate of transfer depends on the temperature difference and the thermal conductivity of materials in contact.
+
+|  | Gaining heat by conduction | Losing heat by conduction |
+|--|--|--|
+| **Ectotherm** | Pressing body against warm rock or soil | Moving to cool substrate; burrowing into moist soil |
+| **Endotherm** | Huddling with other animals; lying in sun-warmed soil | Resting on cool ground; pressing against cold surface |
+
+**WA example:** On a winter morning, a western bearded dragon (*Pogona minor*) flattens its body against a dark bitumen road to maximise contact with the thermally conductive surface — far warmer than the surrounding air.
+
+#### 2. Convection
+
+Heat transfers through **moving air or water**. A warm animal in still air is surrounded by a thin layer of warm air; wind or water movement removes this layer, increasing heat loss (convective cooling).
+
+**Insulation as convection management:** Fur, feathers and subcutaneous fat trap still air (or water) next to the skin, reducing convective heat loss. Feathers can be fluffed to increase the insulating layer; fur can be flattened in hot conditions to allow more convection.
+
+**WA examples:**
+
+- A **bilby** curled in its burrow: still air trapped in its fur reduces heat loss overnight.
+- A **humpback whale** calf: thick blubber layer traps heat against the body in cool ocean water.
+- A **wedge-tailed eagle** soaring on thermal updrafts: convective air currents carry it effortlessly with minimal muscle energy.
+
+#### 3. Radiation
+
+All objects above absolute zero emit **infrared radiation**. The amount increases with temperature. Darker surfaces absorb more solar radiation; lighter surfaces reflect more.
+
+![Infrared thermography lizard basking radiation heat transfer ectotherm body temperature](./img/y9-radiation-heat-transfer-animals.png){fig-alt="Infrared thermography image of a lizard basking, showing heat distribution on its body surface relative to cool surroundings" width=580 fig-align="center"}
+
+|  | Gaining heat by radiation | Losing heat by radiation |
+|--|--|--|
+| **Ectotherm** | Basking in sunlight; positioning body perpendicular to sun's rays | Retreating to shade; burrowing underground |
+| **Endotherm** | Basking (some species); positioning in patches of sunlight | Radiating heat from large blood-vessel-rich surfaces (kangaroo ears, elephant ears) |
+
+**WA examples:**
+
+- A **dugite snake**, dark in colour, absorbs morning radiation rapidly to raise body temperature before activity.
+- The **red kangaroo's** large ears contain a dense network of blood vessels close to the skin surface — radiating excess body heat when the animal is active on hot days.
+
+#### 4. Evaporation
+
+When water evaporates from a surface, it removes heat. Every gram of water that evaporates takes approximately 2,430 J of heat energy with it — making evaporation the most powerful cooling mechanism available to animals in hot conditions.
+
+**Methods of evaporative cooling:**
+
+- **Sweating** (some mammals): sweat glands secrete water onto skin surface.
+- **Panting** (dogs, birds, some reptiles): rapid shallow breathing evaporates water from the respiratory tract.
+- **Saliva spreading**: kangaroos and wallabies lick the sparsely furred skin of their forearms, where dense superficial blood vessels allow rapid heat loss.
+- **Gular fluttering**: some birds rapidly vibrate the floor of the mouth to increase evaporation from moist mucous membranes.
+
+**WA example:** The **red kangaroo** (*Osphranter rufus*) combines all four mechanisms simultaneously during a hot Kimberley afternoon: it seeks shade (reducing radiation gain), stands facing into any breeze (convection), rests on cool soil (conduction), and licks its forearms (evaporation).
+
+#### Putting It Together — Endotherm vs Ectotherm
+
+![Heat budget endotherm ectotherm heat gain loss conduction convection radiation evaporation comparison diagram](./img/y9-heat-budget-endo-ecto-comparison.png){fig-alt="Side-by-side diagram of an endotherm (kangaroo) and ectotherm (lizard) showing arrows for heat gain and heat loss through each of the four mechanisms" width=640 fig-align="center"}
+
+| Mechanism | Endotherm (e.g. red kangaroo) | Ectotherm (e.g. bobtail lizard) |
+|-----------|-------------------------------|----------------------------------|
+| **Conduction** | Minor — uses to lose heat in hot conditions | Major — primary heat gain; presses body against warm substrate |
+| **Convection** | Major — insulation (fur) reduces loss in cold; convection used for cooling | Moderate — moves between microclimates; burrows reduce convective loss at night |
+| **Radiation** | Moderate — radiates excess heat via ears and sparsely furred areas | Major — basking is primary heat gain; body orientation maximises/minimises absorption |
+| **Evaporation** | Major — sweating, licking, panting used when overheating | Minor — limited by need to conserve water; some panting in extreme heat |
+| **Internal heat** | High — continuous metabolic heat generation | Near zero — essentially no internal heat generation for thermoregulation |
+
+#### Check for Understanding
+
+For each scenario below, identify the **primary heat transfer mechanism** involved:
+
+| Scenario | Mechanism |
+|----------|-----------|
+| An echidna curls into a ball, covering its sparse-furred underside with its spiny back | |
+| A wedge-tailed eagle circles in a warm updraft, wings spread | |
+| A bobtail lizard presses its dark dorsal surface toward the morning sun | |
+| A bilby pants rapidly at the entrance to its burrow on a 38°C afternoon | |
+| A dugite snake slides under a cool, damp sandstone slab at midday | |
+
+*Answers: huddled echidna — conduction (reducing loss); eagle soaring — convection; bobtail toward sun — radiation; bilby panting — evaporation; dugite under rock — conduction (gaining cool)*
+
+---
+
+### Activity 2 — WE DO: Analysing Heat Transfer in WA Animals
+
+![Western Australia animals thermoregulating kangaroo lizard eagle bilby snake heat transfer examples](./img/y9-heat-transfer-wa-animals-collage.png){fig-alt="Six photographs of WA animals thermoregulating: kangaroo licking forearm, lizard basking, penguin huddling, bilby in burrow, eagle soaring, snake under rock" width=640 fig-align="center"}
+
+As a class, we will examine six photographs of WA animals and for each one:
+
+1. Identify whether the animal is an endotherm or ectotherm.
+2. State whether the animal is gaining or losing heat.
+3. Identify the **primary** heat transfer mechanism operating.
+4. Explain why this mechanism is effective in the context shown.
+
+#### Guided Analysis Table
+
+| Photo | Animal | Endo / Ecto | Gaining or losing heat? | Primary mechanism | Why it works |
+|-------|--------|:-----------:|:-----------------------:|:-----------------:|--------------|
+| 1 | Red kangaroo licking forearm | | | | |
+| 2 | Dugite snake basking on rock | | | | |
+| 3 | Little penguin chick huddling in colony | | | | |
+| 4 | Bilby sheltering in a deep burrow | | | | |
+| 5 | Wedge-tailed eagle soaring on thermal | | | | |
+| 6 | Bobtail lizard sheltering under leaf litter | | | | |
+
+#### Discussion Questions
+
+- Could an ectotherm survive in Antarctica? What would be the specific problem in terms of heat transfer mechanisms?
+- Why does the kangaroo lick its forearms rather than its back? What anatomical features make the forearms effective for evaporative cooling?
+- A student says "ectotherms can't use evaporation to cool down." Is this accurate? How would you correct this statement?
+
+---
+
+### Activity 3 — YOU DO: Heat Transfer and Thermoregulation
+
+![Heat transfer mechanisms worksheet Year 9 biology conduction convection radiation evaporation thermoregulation](./img/y9-heat-transfer-worksheet-header.png){fig-alt="Worksheet header image showing diagrams of the four heat transfer mechanisms with animal silhouettes" width=580 fig-align="center"}
+
+Complete the worksheet: **161-heat-transfer-endotherms-ectotherms-you-do.docx**
+
+You will define and diagram the four mechanisms, classify scenarios, and explain how a chosen WA animal uses two different mechanisms to thermoregulate.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. Which heat transfer mechanism involves direct contact between two surfaces?
+   - A) Convection
+   - B) Radiation
+   - C) Evaporation
+   - D) Conduction
+
+2. A red kangaroo licks its sparsely furred forearms on a hot day. Which mechanism is primarily responsible for the cooling effect?
+   - A) Conduction
+   - B) Convection
+   - C) Radiation
+   - D) Evaporation
+
+3. Which statement best explains why ectotherms rely more heavily on radiation than endotherms for heat gain?
+   - A) Ectotherms have darker skin that absorbs more radiation
+   - B) Ectotherms generate little internal heat and so must obtain it from external sources, including solar radiation
+   - C) Radiation is only effective for animals without fur or feathers
+   - D) Endotherms cannot absorb radiation because their insulation reflects it
+
+4. A bobtail lizard burrows into cool, moist sand at midday. Which mechanism is helping it lose heat?
+   - A) Radiation — the sand emits infrared energy
+   - B) Convection — air circulates through the burrow
+   - C) Conduction — direct contact with the cooler substrate transfers heat away
+   - D) Evaporation — moisture in the sand evaporates from the lizard's skin
+
+5. **Short answer:** A student claims that endotherms use evaporation to cool down but ectotherms do not. Evaluate this claim. Is it fully accurate? Use at least one WA example in your answer.
+
+---
+
+## Home-study
+
+Research one WA animal not mentioned in today's lesson. Describe **two** heat transfer mechanisms it uses in thermoregulation — one for gaining heat and one for losing heat — and identify whether it is an endotherm or ectotherm. Write 3–4 sentences for each mechanism.

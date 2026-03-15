@@ -1,0 +1,164 @@
+---
+title: "Predation in Ecosystems"
+date: 2026-02-11
+subtitle: "Term 1, Week 2, Lesson 3"
+---
+
+## Do Now
+
+Examine the images of the three Australian animals below. For each one, predict whether it is a **predator**, **prey**, or **both**. Write one sentence justifying your reasoning for each.
+
+1. Wedge-tailed eagle
+2. Quokka
+3. Eastern brown snake
+
+![Wedge-tailed eagle, quokka, eastern brown snake.](./img/predator-prey-australian-animals.png){fig-alt="Australian animals — wedge-tailed eagle, quokka, eastern brown snake" width=600 fig-align="center"}
+
+## Daily Review
+
+1. Competition between members of the **same** species is called:
+   - A) Interspecific competition
+   - B) Intraspecific competition
+   - C) Predation
+   - D) Symbiosis
+
+2. Which of the following is an example of **interspecific** competition?
+   - A) Two male kangaroos fighting over a mate
+   - B) Feral cats and quolls hunting the same prey
+   - C) A pack of wolves hunting together
+   - D) Bacteria decomposing leaf litter
+
+3. The competitive exclusion principle states that:
+   - A) Two species can always share the same niche
+   - B) Competition only occurs between different species
+   - C) Two species competing for the same niche cannot coexist indefinitely
+   - D) All organisms must compete for mates
+
+4. An abiotic factor in a desert ecosystem would include:
+   - A) Lizards
+   - B) Cacti
+   - C) Bacteria
+   - D) Temperature
+
+5. Resource partitioning allows species to coexist by:
+   - A) Eliminating competition entirely
+   - B) Using the same resources at the same time
+   - C) Dividing up resources to reduce direct competition
+   - D) Increasing the number of predators in the ecosystem
+
+## Learning Intentions
+
+Today we are learning about predator-prey relationships and how predation influences population dynamics in ecosystems.
+
+## Success Criteria
+
+- [ ] Define predation and identify the roles of predator and prey in an ecosystem
+- [ ] Describe adaptations that predators and prey have developed in response to each other
+- [ ] Interpret predator-prey population graphs to explain cyclical changes in population size
+
+## Keywords
+
+predation
+: An interaction where one organism (the predator) hunts and consumes another organism (the prey).
+
+predator
+: An organism that hunts and eats other organisms.
+
+prey
+: An organism that is hunted and eaten by a predator.
+
+adaptation
+: A feature or behaviour that helps an organism survive in its environment.
+
+camouflage
+: Colouring or patterns that help an organism blend in with its surroundings.
+
+mimicry
+: When one species evolves to resemble another species (often a dangerous one) to avoid predation.
+
+predator-prey cycle
+: The cyclical rise and fall of predator and prey populations over time.
+
+## Learning Activities
+
+### Activity 1 — I DO: Predator-Prey Relationships and Adaptations
+
+**Teacher presents predator and prey adaptations using Australian examples, then introduces predator-prey population graphs.**
+
+Key points to cover:
+
+**Predator Adaptations:**
+
+- Speed and agility: Wedge-tailed eagles can dive at over 300 km/h to catch prey.
+- Stealth and ambush: Saltwater crocodiles lie motionless in water before striking.
+- Venom: Eastern brown snakes use potent venom to immobilise prey quickly.
+- Sharp claws and teeth: Quolls have sharp teeth adapted for catching and eating small mammals and insects.
+- Camouflage: Wobbegong sharks blend into the reef floor to ambush fish.
+
+**Prey Adaptations:**
+
+- Camouflage: Leaf-tailed geckos blend in with tree bark to avoid detection.
+- Warning colouration (aposematism): Blue-ringed octopus displays bright blue rings to warn predators of its deadly venom.
+- Mimicry: Some harmless flies mimic the appearance of wasps to deter predators.
+- Speed and escape: Wallabies use powerful hind legs to flee from predators at high speed.
+- Defensive structures: Thorny devil lizards have spines covering their body to deter predators.
+
+**Predator-Prey Population Cycles:**
+
+- As prey populations increase → more food available → predator populations increase.
+- As predator populations increase → more prey consumed → prey populations decrease.
+- As prey populations decrease → less food → predator populations decrease.
+- As predator populations decrease → less predation → prey populations recover.
+- This creates a cyclical pattern with a **time lag** between predator and prey peaks.
+
+Introduce the classic **lynx and snowshoe hare** dataset as an example of this cycle.
+
+**Check for Understanding:** Mini-whiteboard: "If prey populations suddenly crash, what happens to predator numbers? Why is there a time lag?"
+
+![Predator-prey population cycle graph showing lynx and snowshoe hare.](./img/predator-prey-graph-lynx-hare.png){fig-alt="Predator-prey population cycle graph showing lynx and snowshoe hare" width=600 fig-align="center"}
+
+### Activity 2 — WE DO: Guided Graph Analysis
+
+**Students work through a predator-prey population graph step-by-step with the teacher.**
+
+Using the lynx-hare graph displayed on the board, work through the following as a class:
+
+1. Identify which line represents the predator and which represents the prey.
+2. Mark the **peak** of the prey population. What happens to the predator population shortly after?
+3. Mark the **peak** of the predator population. What happens to the prey population shortly after?
+4. Identify the **time lag** between the prey peak and the predator peak. Approximately how long is it?
+5. Describe the overall pattern in one sentence.
+6. Predict what would happen if a disease wiped out most of the hare population. Sketch the next part of the graph.
+
+### Activity 3 — YOU DO: Independent Graph Interpretation
+
+**Students independently interpret a new predator-prey graph and answer structured questions.**
+
+The graph below shows the estimated populations of dingoes and wallabies in a national park over a 20-year period.
+
+![Dingo and wallaby predator-prey population graph.](./img/dingo-wallaby-population-graph.png){fig-alt="Predator-prey population graph for dingo and wallaby populations" width=600 fig-align="center"}
+
+Answer the following questions:
+
+1. Which organism is the predator and which is the prey? How can you tell from the graph?
+2. In which year did the wallaby population reach its highest point?
+3. What happened to the dingo population after the wallaby peak? Explain why.
+4. Describe the relationship between the two population curves. What pattern do you notice?
+5. Estimate the time lag between the wallaby population peak and the dingo population peak.
+6. In Year 15, the wallaby population dropped sharply. Suggest two possible reasons for this — one related to predation and one related to an abiotic factor.
+7. Predict what would happen to both populations if dingoes were removed from the national park. Explain your reasoning.
+
+## Reflection
+
+1. Define **predation** in your own words.
+2. Match the adaptation to the correct type:
+
+| Adaptation | Predator or Prey? |
+|-----------|-------------------|
+| Camouflage to blend into the reef floor | |
+| Bright warning colours | |
+| Venomous bite to immobilise food | |
+| Spines covering the body | |
+
+3. Explain why there is a **time lag** between changes in prey population and changes in predator population.
+4. A predator-prey graph shows that the rabbit population is currently at a peak. Predict what will happen to the fox population over the next few years.

@@ -1,0 +1,258 @@
+---
+title: "Hydrotropism and Other Plant Responses"
+date: 2026-03-11
+subtitle: "Term 1, Week 6, Lesson 3"
+---
+
+![Hydrotropism plant roots growing toward water moist soil thigmotropism tendril climbing plant Western Australia](./img/y9-hydrotropism-thigmotropism-suite.png){fig-alt="Composite image — left: roots growing toward a moist patch in dry sandy soil; right: a tendril of a WA climbing plant coiling around a branch" width=620 fig-align="center"}
+
+## Do Now
+
+Think about a plant growing in a dry patch of WA bushland where water is very unevenly distributed in the soil.
+
+1. List **three** environmental stimuli (things in the environment) that a plant might need to respond to in order to survive.
+2. For each stimulus, describe what the ideal plant response would be — what direction should it grow, or what should it do?
+3. Can a plant sense more than one stimulus at the same time? What do you think?
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. A tropism in which a plant grows *toward* the stimulus is described as:
+   - A) Negative
+   - B) Lateral
+   - C) Positive
+   - D) Directional
+
+2. In phototropism, auxin migrates to the \_\_\_\_ side of the shoot tip, causing that side to elongate \_\_\_\_.
+   - A) lit; more
+   - B) shaded; more
+   - C) shaded; less
+   - D) lit; less
+
+3. Why does a root show positive geotropism while the shoot of the same plant shows negative geotropism?
+   - A) Roots produce their own auxin independently of the shoot
+   - B) Auxin promotes elongation in shoot cells but inhibits elongation in root cells at the same concentration
+   - C) Gravity has no effect on shoot cells
+   - D) Shoots always grow toward water rather than away from gravity
+
+4. What is the adaptive advantage of positive phototropism in a plant shoot?
+   - A) It moves the plant toward a water source
+   - B) It anchors the plant more deeply in the soil
+   - C) It maximises exposure of leaves to light for photosynthesis
+   - D) It reduces water loss by orienting the shoot away from the sun
+
+5. A seedling is placed on its side in the dark. After 24 hours, the shoot will have:
+   - A) Grown toward the nearest light source
+   - B) Grown downward, following gravity
+   - C) Grown upward, against gravity
+   - D) Stayed horizontal — tropisms require light to function
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) C 2) B 3) B 4) C 5) C
+:::
+
+## Learning Intentions
+
+Today we are learning to explain how hydrotropism directs root growth toward water, and to describe thigmotropism and at least one other plant response, explaining how each helps a plant acquire resources or respond to its environment.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined hydrotropism and explained the mechanism by which roots detect and grow toward moisture, with a WA arid-environment example
+- [ ] Described thigmotropism and given at least one WA example of a plant using it to gain a competitive or structural advantage
+- [ ] Explained how multiple tropisms can operate in the same plant simultaneously, using the stimulus–response model to organise your thinking
+
+## Keywords
+
+Hydrotropism
+: **What changes:** root growth direction in response to a moisture gradient. **Positive hydrotropism:** roots grow toward higher water potential (wetter soil). Detected by the root cap (columella cells). Critically important in arid and seasonally dry environments such as the WA wheatbelt and Pilbara.
+
+Thigmotropism
+: **What changes:** directional growth in response to physical contact or touch. **Positive thigmotropism:** growth wraps around or toward a solid object (e.g. tendrils coiling around a support). Allows climbing plants to gain height without investing energy in thick, self-supporting stems.
+
+Nastic movement
+: A non-directional plant movement in response to a stimulus, where the direction of movement is not determined by the direction of the stimulus. Unlike tropisms, nastic movements are often reversible. Example: *Mimosa pudica* leaf folding in response to touch; flowers opening and closing in response to temperature or light.
+
+Circadian rhythm
+: A biological cycle of approximately 24 hours driven by an internal "clock" and entrained by environmental cues such as light and temperature. Plants use circadian rhythms to time stomatal opening/closing, flower opening, and leaf movement. Important for water conservation in WA's Mediterranean climate.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: Beyond Light and Gravity — More Plant Responses
+
+#### Recap: The Stimulus–Response Model
+
+From Week 5, all organisms — including plants — can be understood through the stimulus–response model:
+
+> **Stimulus → Receptor/Detector → Processing → Effector → Response**
+
+Plants lack a nervous system, so their "processing" is chemical (hormones like auxin, ABA, cytokinin) and their "effectors" are zones of growing cells. Today we add three more stimuli that plants respond to.
+
+#### Hydrotropism — Growing Toward Water
+
+![Hydrotropism root growth toward moisture water potential gradient dry soil diagram](./img/y9-hydrotropism-root-diagram.png){fig-alt="Diagram showing a plant root growing through dry soil, curving toward a pocket of moist soil — arrows indicate water potential gradient and direction of root growth" width=580 fig-align="center"}
+
+**Mechanism:**
+
+- The **root cap** (specifically the columella cells in the root tip) detects differences in water potential between wet and dry regions of soil.
+- In response to a moisture gradient, differential growth bends the root toward the wetter zone — positive hydrotropism.
+- The hormone **ABA (abscisic acid)** plays a key role in hydrotropism, signalling moisture stress.
+- Importantly, when hydrotropism and geotropism give conflicting signals (water is *up* the slope), hydrotropism can override geotropism — roots follow water even if it means growing at an angle.
+
+**WA context — why this matters:**
+
+In south-west WA's Mediterranean climate, summer rainfall is close to zero and soil moisture is extremely patchy. Roots of native species such as **banksia** (*Banksia* spp.) and **jarrah** must grow long lateral roots guided by hydrotropism to reach isolated moisture pockets in the laterite soil profile. Banksia roots can extend more than 20 m horizontally, tracking the deep water table.
+
+![Banksia root system Western Australia laterite soil water table deep roots hydrotropism](./img/y9-banksia-root-system-wa.png){fig-alt="Diagram or photograph of banksia root system extending laterally and deep into WA laterite soil, seeking water table" width=580 fig-align="center"}
+
+#### Thigmotropism — Growing in Response to Touch
+
+**Mechanism:**
+
+- Physical contact with a solid object triggers localised changes in cell expansion — cells on the contact side elongate less, causing the organ to wrap around the object.
+- In tendrils, specialised contact-sensing cells detect the mechanical stimulus and initiate hormone-driven differential growth within minutes to hours.
+
+**WA examples:**
+
+- **Wild cucumber** (*Cucumis myriocarpus*, an introduced species found in WA roadsides and disturbed bushland): tendrils coil tightly around grasses and shrubs for support.
+- **Native climbing plants** in the jarrah and karri forests use thigmotropism to ascend toward the canopy without the energy cost of a thick self-supporting trunk.
+- **Tree roots** show a form of thigmotropism when growing around rocks: they detect the obstacle and redirect growth along its surface.
+
+**Adaptive advantage:** A climbing plant using thigmotropism can reach the forest canopy — and its light — while investing far less biomass in a supportive stem compared to a self-supporting tree.
+
+![Thigmotropism tendril coiling plant response touch climbing plant support](./img/y9-thigmotropism-tendril-coiling.png){fig-alt="Close-up of a plant tendril coiling tightly around a thin branch, showing the helical growth response to touch" width=520 fig-align="center"}
+
+#### Nastic Movements — Non-Directional Responses
+
+Unlike tropisms, **nastic movements** do not grow *toward* or *away from* a stimulus — the direction of the movement is determined by the plant's anatomy, not by the direction from which the stimulus comes.
+
+| Nastic movement | Stimulus | Example |
+|----------------|----------|---------|
+| **Thigmonasty** | Touch | *Mimosa pudica* (sensitive plant) leaf folding — not native to WA but useful for demonstration |
+| **Photonasty** | Light/dark | WA everlasting daisies (*Rhodanthe*, *Waitzia*) closing at night and opening in sunlight |
+| **Thermonasty** | Temperature | Some WA orchids opening/closing with temperature change |
+
+**Note:** nastic movements are often **reversible** (they return to starting position) whereas tropisms are permanent.
+
+#### Circadian Rhythms in Plants
+
+Plants also have an internal biological clock (~24 hours) synchronised by light:
+
+- **Stomatal rhythm:** stomata open in the day (CO₂ absorption for photosynthesis), close at night and during heat stress (water conservation). Critical in WA's hot, dry summers — stomata close in the afternoon to prevent wilting.
+- **Leaf movements:** some plants raise or lower their leaves with a 24-hour cycle to optimise light absorption and minimise water loss at different times of day.
+- **Flowering timing:** photoperiodism — many WA wildflowers time their flowering to specific day lengths, ensuring they flower when pollinators are active and before the dry season.
+
+![Stomatal aperture circadian rhythm 24 hours day night graph water conservation plant biology](./img/y9-stomata-circadian-rhythm-graph.png){fig-alt="Graph showing stomatal aperture (y-axis) over a 24-hour period (x-axis), with stomata wide open during daylight hours and closed at night and during peak afternoon heat" width=580 fig-align="center"}
+
+#### Putting It Together — Multiple Tropisms Simultaneously
+
+A single WA plant experiences **all of these stimuli at once**:
+
+![Multiple tropisms single plant phototropism geotropism hydrotropism thigmotropism simultaneous diagram](./img/y9-multiple-tropisms-plant-diagram.png){fig-alt="Diagram of a single plant (e.g. banksia seedling) with labelled arrows showing phototropism in the shoot, geotropism in root and shoot, hydrotropism in lateral roots, and stomatal circadian rhythm" width=600 fig-align="center"}
+
+| Organ | Stimulus | Response | Tropism |
+|-------|----------|----------|---------|
+| Shoot tip | Unilateral sunlight | Grows toward light | Positive phototropism |
+| Shoot | Gravity | Grows upward | Negative geotropism |
+| Main root | Gravity | Grows downward | Positive geotropism |
+| Lateral roots | Moisture gradient | Grows toward wet soil | Positive hydrotropism |
+| Tendril (if climbing) | Contact with support | Coils around support | Positive thigmotropism |
+| Stomata | Light + circadian rhythm | Opens/closes on ~24 h cycle | (Circadian rhythm) |
+
+All these responses together allow the plant to maximise photosynthesis, minimise water loss, reach physical support, and anchor into nutrient-rich soil.
+
+#### Check for Understanding
+
+Match each scenario to the correct type of plant response:
+
+| Scenario | Response type |
+|----------|:-------------:|
+| A banksia root in dry laterite soil curves toward a moist patch 30 cm away | |
+| A WA everlasting daisy closes its petals at sunset | |
+| The shoot of a germinating seed in complete darkness grows upward | |
+| A vine tendril wraps tightly around a fencepost | |
+| Jarrah stomata close at 2 pm on a 42°C summer afternoon | |
+
+*Answers: hydrotropism; photonasty (nastic); negative geotropism; positive thigmotropism; stomatal circadian/thermoresponse*
+
+---
+
+### Activity 2 — WE DO: Tuart Woodland Case Study
+
+![Tuart woodland Western Australia Eucalyptus gomphocephala sandy soil dry Mediterranean climate understorey](./img/y9-tuart-woodland-wa-landscape.png){fig-alt="Photograph of a WA tuart woodland (Eucalyptus gomphocephala) showing sandy dry soil, dense canopy, and mixed understorey plants" width=640 fig-align="center"}
+
+**Scenario:** A banksia seedling (*Banksia menziesii* — firewood banksia) has just germinated in a tuart woodland on the Swan Coastal Plain in late autumn. The soil is drying rapidly after the first summer break rains. The canopy above is patchy — some direct light reaches the forest floor, some areas are shaded. The seedling is growing through sandy, well-drained soil and a small dried stick is lying across its path.
+
+In small groups, discuss and answer the following:
+
+1. The seed germinates underground. The shoot must reach the surface. Which two tropisms will guide its shoot and root in the right directions? Explain the mechanism for each.
+
+2. As the seedling establishes, the soil moisture becomes increasingly patchy. Which response will the root system use to locate water? What anatomical structure detects the moisture gradient?
+
+3. The seedling grows through loose sand and encounters the stick. What response (if any) might the seedling show?
+
+4. It is now late spring and daytime temperatures reach 36°C. The seedling's stomata have been open all morning for photosynthesis. What response do you predict for the stomata in the early afternoon, and what is the adaptive benefit?
+
+5. Overall: identify **four distinct plant responses** the seedling has used in its first growing season, and for each one, name the stimulus and the adaptive benefit.
+
+---
+
+### Activity 3 — YOU DO: Hydrotropism and Other Plant Responses
+
+![Plant responses worksheet hydrotropism thigmotropism nastic movement circadian stomata Year 9 biology](./img/y9-plant-responses-worksheet-header.png){fig-alt="Worksheet header showing diagrams of hydrotropism (root curving toward water), thigmotropism (tendril coiling), and a graph of stomatal aperture over 24 hours" width=580 fig-align="center"}
+
+Complete the worksheet: **163-hydrotropism-and-other-plant-responses-you-do.docx**
+
+You will match stimuli to tropism types, label a hydrotropism diagram, and write an explanation of how multiple tropisms work together in a chosen WA plant.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. Hydrotropism is the growth of roots:
+   - A) Away from gravity
+   - B) Toward a physical support
+   - C) Toward regions of higher water potential (moisture)
+   - D) In response to light from one direction
+
+2. Which of the following is an example of a **nastic movement** rather than a tropism?
+   - A) A shoot bending toward a light source
+   - B) A root growing downward in response to gravity
+   - C) A *Mimosa pudica* leaf folding when touched, regardless of which direction the touch comes from
+   - D) A root growing toward a moist patch of soil
+
+3. How does thigmotropism benefit a climbing plant?
+   - A) It allows the plant to grow toward water sources underground
+   - B) It allows the plant to reach the canopy and access more light without investing energy in a thick supporting stem
+   - C) It prevents the plant from being damaged by physical contact
+   - D) It helps the plant detect the direction of gravity
+
+4. A banksia's stomata are open at 9 am but closed at 2 pm on a hot summer day. This is best explained by:
+   - A) Positive phototropism reducing the leaf area exposed to sunlight
+   - B) Negative hydrotropism as the plant detects low soil moisture
+   - C) A circadian rhythm combined with stomatal response to heat and water stress
+   - D) Thigmotropism caused by wind pressure on the leaf surface
+
+5. **Short answer:** Explain how hydrotropism overriding geotropism in a banksia root would benefit the plant during a dry WA summer. Use the terms *water potential*, *root cap* and *moisture gradient* in your answer.
+
+---
+
+## Home-study
+
+Find a photograph or diagram of a WA native plant that shows clear evidence of at least one tropism (other than phototropism). Describe the tropism, identify the stimulus, and explain how it benefits the plant in its specific WA environment. You can draw a diagram or print and annotate an image. (2–4 sentences.)

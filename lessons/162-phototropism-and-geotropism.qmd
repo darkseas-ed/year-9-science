@@ -1,0 +1,262 @@
+---
+title: "Plant Tropisms: Phototropism and Geotropism"
+date: 2026-03-10
+subtitle: "Term 1, Week 6, Lesson 2"
+---
+
+![Phototropism plant shoot bending toward light.](./img/y9-phototropism_flowering_shamrock-5a96b6821f4e1300369044f8-3219818411.jpg){fig-alt="Split image — left: a pot plant with shoot bent toward a window; right: a diagram of a germinating seed with shoot growing up and root growing down" width=620 fig-align="center"}
+
+## Do Now
+
+Look at the photograph of a pot plant that has been sitting on a windowsill for two weeks.
+
+1. What do you notice about the direction the shoot is growing?
+2. Write a hypothesis: what do you think caused the shoot to grow in this direction?
+3. If you turned the pot around so the plant faced away from the window, what do you predict would happen over the next two weeks?
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. Which heat transfer mechanism involves the movement of heat through moving air or water?
+   - A) Conduction
+   - B) Convection
+   - C) Radiation
+   - D) Evaporation
+
+2. A dugite snake basks in the morning sunlight to warm up. Which heat transfer mechanism is primarily responsible?
+   - A) Conduction
+   - B) Convection
+   - C) Radiation
+   - D) Evaporation
+
+3. An endotherm in a cold environment would most likely use which mechanism to **reduce heat loss**?
+   - A) Increasing evaporation from skin
+   - B) Pressing against cold rocks
+   - C) Trapping still air with dense fur or feathers (insulation)
+   - D) Spreading limbs wide to increase surface area
+
+4. Evaporation is an especially effective cooling mechanism because:
+   - A) It reflects solar radiation away from the skin
+   - B) It requires direct contact with a cold surface
+   - C) A large amount of heat energy is removed for every gram of water that evaporates
+   - D) It only works at night when convective cooling is reduced
+
+5. Which of the following best explains why a bobtail lizard is sluggish in the morning but active by 10 am on a summer day?
+   - A) It sleeps at night and takes time to wake up
+   - B) Its body temperature rises through conduction and radiation as the environment warms
+   - C) Its internal metabolic heat generation is highest in the morning
+   - D) It needs to eat breakfast before becoming active
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) B 2) C 3) C 4) C 5) B
+:::
+
+## Learning Intentions
+
+Today we are learning to:
+
+- define the term tropism and explain the difference between positive and negative tropisms, and
+- explain how the hormone auxin drives phototropism and geotropism in plant shoots and roots.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined tropism as a directional growth response to a directional stimulus, and given examples of positive and negative tropisms
+- [ ] Described, with a labelled diagram, how uneven auxin distribution causes differential cell elongation that bends a shoot toward light
+- [ ] Explained geotropism in both shoots (grow upward) and roots (grow downward), with reference to how auxin concentration affects each organ differently
+
+## Keywords
+
+Tropism
+: A directional growth response in a plant, in which the direction of growth is determined by the direction of the stimulus. A **positive** tropism grows *toward* the stimulus; a **negative** tropism grows *away from* it.
+
+Auxin (IAA)
+: **What it is:** Indole-3-acetic acid — a plant growth hormone produced at the tip of growing shoots (the apical meristem). **What it does:** promotes cell elongation in shoots at normal concentrations; inhibits cell elongation in roots at those same concentrations. **How it moves:** transported away from light, and downward in response to gravity.
+
+Phototropism
+: **What changes:** growth direction in response to light. **Positive phototropism:** shoot grows toward the light source (most shoots). **Negative phototropism:** growth away from light (most roots). Mediated by redistribution of auxin to the shaded side.
+
+Geotropism (gravitropism)
+: **What changes:** growth direction in response to gravity. **Positive geotropism:** growth in the direction of gravity — roots grow downward. **Negative geotropism:** growth against gravity — shoots grow upward. Both are mediated by auxin accumulating on the lower side of the organ.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: Auxin and Directional Growth
+
+{{< video https://www.youtube.com/watch?v=rKHIfsHX1aA >}}
+
+#### What Is a Tropism?
+
+Plants cannot move from place to place, but they can *grow* toward or away from stimuli. A **tropism** is a growth response in which the direction of growth is controlled by the direction of the stimulus. Because growth is irreversible, tropisms produce permanent bends in plant organs.
+
+- **Positive tropism** — growth *toward* the stimulus (e.g. shoots growing toward light)
+- **Negative tropism** — growth *away from* the stimulus (e.g. roots growing away from light)
+
+#### The Role of Auxin
+
+The key player in most plant tropisms is the hormone **auxin** (IAA — indole-3-acetic acid), produced at the tip of growing shoots.
+
+**Effect on cells:**
+
+- In shoots, auxin *promotes* cell elongation — cells with more auxin get bigger.
+- In roots, auxin *inhibits* cell elongation at the same concentrations — the same amount of auxin that helps shoot cells grow actually suppresses root cell growth.
+
+This difference between how shoot cells and root cells respond to auxin is what allows a single hormone to produce opposite tropisms in roots and shoots.
+
+#### Phototropism — Response to Light
+
+![Phototropism auxin IAA redistribution shaded side shoot tip cell elongation bending toward light diagram](./img/y9-phototropism-auxin-diagram.png){fig-alt="Diagram showing auxin redistribution in a shoot tip exposed to unilateral light — auxin migrates to the shaded side, causing greater elongation on that side and the shoot bends toward the light source" width=580 fig-align="center"}
+
+**Step-by-step mechanism:**
+
+1. Light strikes the shoot from one side (**unilateral light**).
+2. Auxin, produced at the shoot tip, **migrates away from the light** — it accumulates on the shaded side.
+3. The **shaded side** of the shoot now has more auxin → more cell elongation → cells on the shaded side grow longer.
+4. The **lit side** has less auxin → less elongation → cells on the lit side stay shorter.
+5. Because one side is longer than the other, the shoot **bends toward the light source**.
+
+**Adaptive value:** By growing toward light, the shoot maximises the leaf surface area exposed to sunlight for photosynthesis.
+
+**WA example:** Jarrah (*Eucalyptus marginata*) and marri (*Corymbia calophylla*) seedlings on the forest floor after a bushfire show strong positive phototropism — competing rapidly for light in the newly opened canopy.
+
+#### What happens if you remove the shoot tip?
+
+Classic experiments by Frits Went showed that:
+
+- A plant with its tip removed **does not respond to unilateral light** — it just grows straight.
+- If the tip is replaced (even separated by agar), the response is restored.
+
+This confirmed that the shoot *tip* produces the signal (auxin) and that auxin moves down from the tip into the elongation zone.
+
+#### Geotropism — Response to Gravity
+
+![Geotropism gravitropism auxin gravity seedling root shoot bending upward downward diagram](./img/y9-geotropism-auxin-seedling-diagram.png){fig-alt="Diagram of a seedling on its side — gravity pulls auxin to the lower half; in the shoot (lower half elongates more, shoot bends upward); in the root (lower half is inhibited, root bends downward)" width=600 fig-align="center"}
+
+Gravity causes auxin to accumulate on the **lower side** of a horizontal stem or root.
+
+**In shoots (negative geotropism):**
+
+- Lower side has more auxin → more elongation on lower side → shoot bends **upward** (against gravity).
+
+**In roots (positive geotropism):**
+
+- Lower side has more auxin → root cells are *inhibited* by high auxin → lower side elongates *less* → root bends **downward** (with gravity).
+
+|                      | Auxin effect                             | Result                   |
+|----------------------|------------------------------------------|--------------------------|
+| **Shoot lower side** | More auxin → more elongation             | Shoot curves **upward**  |
+| **Root lower side**  | More auxin → less elongation (inhibited) | Root curves **downward** |
+
+**Adaptive value:**
+
+- Roots growing downward reach water and mineral nutrients in the soil and anchor the plant.
+- Shoots growing upward reach sunlight for photosynthesis.
+
+**WA example:** After a summer bushfire in the jarrah forest, seeds germinating in the ash layer use geotropism to establish: radicle (embryonic root) grows down into the still-warm soil; shoot emerges upward toward the open sky.
+
+#### Check for Understanding
+
+Complete the following sentences:
+
+| Sentence                                                                        | Answer |
+|---------------------------------------------------------------------------------|--------|
+| A shoot growing *toward* the light shows \_\_\_\_ phototropism.                 |        |
+| Auxin is produced at the \_\_\_\_ of the shoot.                                 |        |
+| In a shoot exposed to light from the left, auxin migrates to the \_\_\_\_ side. |        |
+| The side of the shoot with more auxin elongates \_\_\_\_ (more/less).           |        |
+| In a root, high concentrations of auxin \_\_\_\_ cell elongation.               |        |
+| A root growing downward shows \_\_\_\_ geotropism.                              |        |
+
+*Answers: positive; tip (apical meristem); right/shaded; more; inhibit; positive*
+
+---
+
+### Activity 2 — WE DO: Labelling Tropism Diagrams
+
+![Phototropism geotropism student diagram labelling auxin elongation shoot root tropism worksheet Year 9](./img/y9-tropism-diagram-labelling-activity.png){fig-alt="Two unlabelled diagrams for student completion — left: a shoot tip in unilateral light with blank arrows for auxin movement and blank labels for elongation; right: a horizontal seedling with blank labels for root and shoot geotropism" width=640 fig-align="center"}
+
+Working with a partner, complete the two diagrams below:
+
+**Diagram A — Phototropism:**
+A shoot tip is illuminated from the left side only. On the diagram:
+
+1. Draw arrows showing the direction auxin migrates.
+2. Label the side where *more* cell elongation occurs.
+3. Draw and label the final direction the shoot will bend.
+4. Write one sentence explaining the adaptive benefit of this response.
+
+**Diagram B — Geotropism:**
+A seedling has been placed on its side (horizontally). On the diagram:
+
+1. Draw arrows showing the direction auxin moves due to gravity.
+2. For the shoot: label which side elongates more, and draw the direction of bending.
+3. For the root: label which side is inhibited, and draw the direction of bending.
+4. Explain in one sentence why it is adaptive for shoots and roots to respond *opposite* to each other.
+
+#### Discussion Questions
+
+- A plant's shoot tip is covered with an opaque cap so no light can reach it. The plant is then placed in unilateral light. Will it show phototropism? Explain.
+- If auxin promotes elongation in shoots but inhibits it in roots, what would happen to a plant treated with a very high dose of auxin applied evenly to both sides of a horizontal seedling?
+- Some plants in dense WA karri forest (*Eucalyptus diversicolor*) grow very tall and straight. How does phototropism help them do this?
+
+---
+
+### Activity 3 — YOU DO: Phototropism and Geotropism
+
+![Phototropism geotropism worksheet student activity auxin Year 9 biology](./img/y9-tropism-you-do-worksheet-header.png){fig-alt="Worksheet header showing a seedling bending toward light on the left, and root turning downward on the right" width=580 fig-align="center"}
+
+Complete the worksheet: **162-phototropism-and-geotropism-you-do.docx**
+
+You will label auxin diagrams, answer true/false questions with justifications, and write a short explanation of the adaptive value of phototropism in a WA plant.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. A plant tropism is best defined as:
+   - A) The movement of an entire plant toward a stimulus
+   - B) A directional growth response in which direction is determined by the direction of the stimulus
+   - C) The production of hormones in response to environmental change
+   - D) The closing of stomata in response to water stress
+
+2. In a shoot exposed to light from the right side only, auxin will accumulate on the:
+   - A) Top of the shoot tip
+   - B) Right (lit) side
+   - C) Left (shaded) side
+   - D) Bottom of the elongation zone
+
+3. Why does a plant root show **positive** geotropism while the shoot shows **negative** geotropism?
+   - A) Roots produce more auxin than shoots
+   - B) Auxin promotes elongation in roots but inhibits it in shoots
+   - C) The same concentration of auxin promotes elongation in shoot cells but inhibits elongation in root cells
+   - D) Gravity acts on roots but not on shoots
+
+4. Which experimental observation provided evidence that the shoot *tip* is responsible for producing the signal in phototropism?
+   - A) Plants with their tips removed still bent toward light
+   - B) Plants with their tips removed stopped responding to unilateral light
+   - C) Roots showed the same bending as shoots when the tip was removed
+   - D) Auxin was found in equal concentrations on both sides of a tipped shoot
+
+5. **Short answer:** A jarrah seedling germinates in complete darkness in a crack in a rock. Explain, using the concept of geotropism, how the seedling's root and shoot will orient themselves, and why this is beneficial for the seedling's survival.
+
+---
+
+## Home-study
+
+Choose a WA plant (not jarrah or marri) that lives in an environment where light or soil structure presents a challenge. Describe how phototropism or geotropism (or both) would help this plant establish and survive. Write 3–5 sentences, using the terms auxin, cell elongation, positive/negative tropism.

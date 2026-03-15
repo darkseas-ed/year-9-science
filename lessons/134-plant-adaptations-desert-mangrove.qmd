@@ -1,0 +1,288 @@
+---
+title: "Plant Adaptations to Deserts and Mangroves"
+date: 2026-02-19
+subtitle: "Term 1, Week 3, Lesson 4"
+---
+
+## Do Now
+
+In your book, look at the two photographs below and answer the question:
+
+**For each environment, list two challenges that a plant would face trying to survive there.**
+
+![Great Sandy Desert red sand Western Australia; Broome mangrove flats tidal Kimberley.](./img/y9-desert-vs-mangrove.png){fig-alt="Red sand desert landscape and tidal mangrove flats" width=600 fig-align="center"}
+
+| Environment | Challenge 1 | Challenge 2 |
+|-------------|-------------|-------------|
+| Desert (Great Sandy Desert) | | |
+| Mangrove (Broome coast) | | |
+
+You have 3 minutes.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. Sclerophyllous leaves are adapted to:
+   - A) Absorb more water from rain
+   - B) Reduce water loss through transpiration
+   - C) Grow faster in nutrient-rich soil
+   - D) Attract pollinators with bright colours
+
+2. Proteoid roots help plants in south-west WA by:
+   - A) Storing water for dry seasons
+   - B) Increasing surface area for nutrient absorption in poor soils
+   - C) Growing deep to reach groundwater
+   - D) Protecting the plant from fire
+
+3. Which of the following is a structural adaptation of the grass tree (*Xanthorrhoea*)?
+   - A) It produces toxic oils
+   - B) It is active at night
+   - C) It has long, narrow, waxy leaves
+   - D) It produces concentrated urine
+
+4. South-west WA is a biodiversity hotspot because:
+   - A) It has very few species
+   - B) It has many species found nowhere else and is under threat
+   - C) It rains all year round
+   - D) It has the richest soils in Australia
+
+5. Tuart trees survive the dry summer by:
+   - A) Dropping all their leaves
+   - B) Storing water in their trunk
+   - C) Using deep tap roots to access groundwater
+   - D) Absorbing moisture from the air
+
+## Learning Intentions
+
+Today we are learning about how plants are adapted to survive in two extreme Australian environments — the arid desert and the coastal mangrove — and how these adaptations compare with those found in south-west WA.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Described at least three adaptations of desert plants for water conservation and heat tolerance
+- [ ] Described at least three adaptations of mangrove plants for survival in saline, waterlogged conditions
+- [ ] Compared the adaptations of desert, mangrove, and south-west WA plants, explaining how each set matches the specific environmental challenges
+
+## Keywords
+
+Ephemeral plant
+: A plant with a very short life cycle that germinates, grows, flowers, and sets seed rapidly after rain, then dies — completing its entire life cycle before the soil dries out.
+
+Cuticle
+: A waxy, waterproof layer on the outer surface of a leaf or stem that reduces water loss.
+
+Pneumatophore
+: A specialised aerial root that grows upward from the mud into the air, allowing mangrove plants to absorb oxygen in waterlogged, oxygen-poor soils.
+
+Vivipary
+: A reproductive strategy in which seeds germinate while still attached to the parent plant, producing a ready-to-establish seedling (propagule) before dropping.
+
+Halophyte
+: A plant that is adapted to grow in salty (saline) conditions.
+
+## Learning Activities
+
+### Activity 1 — I DO: Desert Plant Adaptations
+
+#### The Desert Environment
+
+Australian deserts cover around **70% of the continent**. Key challenges for plants include:
+
+| Challenge | Details |
+|-----------|---------|
+| **Extreme heat** | Daytime temperatures regularly exceed 40°C |
+| **Very low rainfall** | Less than 250 mm per year, often unpredictable |
+| **Poor, sandy soils** | Low in nutrients and unable to retain moisture |
+| **Intense sunlight** | High UV and evaporation rates |
+
+#### Key Desert Plant Adaptations
+
+##### 1. Reduced or Absent Leaves
+
+Many desert plants have modified their leaves to minimise water loss:
+
+![Spinifex grass Australian desert red sand arid.](./img/y9-spinifex-grass.jpg){fig-alt="Spinifex grass in the Australian desert" width=400 fig-align="center"}
+
+- **Spinifex** has tough, rolled, needle-like leaves that reduce the surface area exposed to hot, dry air.
+- **Desert oak** (*Allocasuarina decaisneana*) has tiny scale-like leaves; photosynthesis occurs mainly in the green drooping branchlets.
+- Some cacti-like plants have **spines** instead of leaves, with photosynthesis occurring in the stem.
+
+**Type of adaptation:** Structural
+
+##### 2. Thick Cuticles and Sunken Stomata
+
+- A thick **waxy cuticle** on leaves and stems creates a waterproof barrier, reducing evaporation.
+- **Sunken stomata** (small pores recessed into pits) trap a layer of humid air near the pore, slowing water loss.
+
+**Type of adaptation:** Structural and physiological
+
+##### 3. Water Storage and Deep Roots
+
+- **Succulent tissues** in stems or roots store water for long dry periods.
+- **Deep tap roots** reach underground water sources (e.g. desert oak roots can extend over 10 metres deep).
+
+![Desert oak (*Allocasuarina decaisneana*) central Australia.](./img/y9-desert-oak.jpg){fig-alt="Desert oak tree in central Australia" width=400 fig-align="center"}
+
+**Type of adaptation:** Structural
+
+##### 4. Ephemeral Strategy
+
+Some desert plants avoid drought entirely:
+
+- **Sturt's desert pea** and other ephemerals remain as **seeds** in the soil for months or years.
+- When rain falls, they **germinate rapidly**, grow, flower, and produce seeds within just a few weeks.
+- The seeds then lie dormant again until the next significant rainfall.
+
+![Sturt's desert pea red flower Australian desert bloom.](./img/y9-sturt-desert-pea.jpg){fig-alt="Sturt's desert pea flowering in the desert" width=400 fig-align="center"}
+
+**Type of adaptation:** Behavioural (life cycle timing) and physiological (seed dormancy)
+
+---
+
+### Mangrove Plant Adaptations
+
+#### The Mangrove Environment
+
+Mangroves grow along tropical and subtropical coastlines, including **Shark Bay** and the **Kimberley coast** in WA. They face very different challenges to desert plants:
+
+| Challenge | Details |
+|-----------|---------|
+| **High salinity** | Roots are submerged in seawater (around 35 g/L salt) |
+| **Waterlogged, anaerobic mud** | The soil is constantly saturated; there is very little oxygen available to roots |
+| **Tidal movement** | Regular flooding and draining creates unstable substrate |
+| **Soft, shifting substrate** | Mud provides little structural support for tall plants |
+
+![Mangroves at Shark Bay, Western Australia, showing aerial roots.](./img/y9-aerial-roots-shane-gross-split-level-view-of-lemon-shark-pup-in-mangrove-nursery-bahamas-caribbean-sea_u-l-q1sizob0-2958059403.jpg){fig-alt="Mangroves at Shark Bay, Western Australia" width=500 fig-align="center"}
+
+##### 1. Pneumatophores (Aerial Roots)
+
+- Pneumatophores are specialised roots that grow **upward** out of the mud into the air.
+- They have small pores (lenticels) that absorb **oxygen** directly from the atmosphere.
+- This solves the problem of waterlogged, oxygen-poor soil.
+- Example: **Grey mangrove** (*Avicennia marina*) — the most widespread mangrove in WA.
+
+**Type of adaptation:** Structural
+
+##### 2. Salt Management
+
+Mangroves are **halophytes** — plants adapted to salty conditions. They manage salt in different ways:
+
+| Strategy | How It Works | Example |
+|----------|-------------|---------|
+| **Salt-excreting glands** | Special glands on the leaves actively pump salt out; you can sometimes see salt crystals on the leaf surface | Grey mangrove |
+| **Salt-excluding roots** | Root membranes filter out most salt before water enters the plant | Stilt mangrove (*Rhizophora*) |
+
+**Type of adaptation:** Physiological
+
+##### 3. Vivipary
+
+- In vivipary, the seed **germinates while still attached** to the parent plant.
+- It produces a long, spear-shaped **propagule** (seedling) that drops into the water and can float to a new location.
+- The propagule can quickly anchor in mud and begin growing — giving it a head start in a challenging environment.
+
+![Mangrove propagules hanging from parent plant.](./img/y9-Propagules-of-the-mangroves-Bruguiera-gymnorhiza-left-Rhizophora-stylosa-middle-and-1590931132.png){fig-alt="Mangrove propagules hanging from parent plant" width=400 fig-align="center"}
+
+**Type of adaptation:** Physiological and structural
+
+##### 4. Prop Roots and Buttress Roots
+
+- **Prop roots** (stilt roots) arch outward from the trunk and anchor the tree firmly in soft, shifting mud.
+- **Buttress roots** spread wide at the base of the trunk, providing stability against tidal flow.
+- Example: **Stilt mangrove** (*Rhizophora stylosa*) along the Kimberley coast.
+
+![Stilt mangrove prop roots in Kimberley, WA.](./img/y9-stilt-roots.JPG){fig-alt="Stilt mangrove prop roots in Kimberley, WA" width=400 fig-align="center"}
+
+**Type of adaptation:** Structural
+
+#### Check for Understanding
+
+**Quick match:** Link each adaptation to the correct environment:
+
+1. Pneumatophores → ___________
+2. Sunken stomata → ___________
+3. Vivipary → ___________
+4. Ephemeral life cycle → ___________
+
+*Answers: 1. Mangrove, 2. Desert, 3. Mangrove, 4. Desert*
+
+---
+
+### Activity 2 — WE DO: Venn Diagram — Desert vs. Mangrove Adaptations
+
+As a class, we will build a Venn diagram comparing desert and mangrove plant adaptations.
+
+![Venn diagram template — two circles.](./img/venn-diagram.png){fig-alt="Blank Venn diagram for desert and mangrove adaptations" width=500 fig-align="center"}
+
+#### Guide Questions
+
+Think about each adaptation and decide where it belongs:
+
+| Adaptation / Feature | Desert Only | Both | Mangrove Only |
+|----------------------------------|:-----------:|:----:|:-------------:|
+| Dealing with water stress | | | |
+| Thick waxy cuticle | | | |
+| Specialised root systems | | | |
+| Reducing water loss from leaves | | | |
+| Salt management strategies | | | |
+| Modified reproductive strategies | | | |
+| Structural support adaptations | | | |
+
+#### Discussion
+
+- Both desert and mangrove plants deal with "water stress" — but in opposite ways. How is the water stress different in each environment?
+- Are there any shared strategies between the two environments?
+- Which environment do you think is more challenging for plants? Justify your answer.
+
+---
+
+### Activity 3 — YOU DO: Comparing Three Ecosystems
+
+Complete the worksheet: **134-plant-adaptations-desert-mangrove-you-do.docx**
+
+You will complete a comparative table of plant adaptations across three ecosystems: south-west WA, desert, and mangrove.
+
+Work independently. You have 10 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. A pneumatophore is a specialised root that:
+   - A) Stores water underground
+   - B) Grows upward into the air to absorb oxygen
+   - C) Filters salt from seawater
+   - D) Absorbs nutrients from poor soils
+
+2. Which of the following is an ephemeral plant strategy?
+   - A) Growing deep roots to find water
+   - B) Remaining as seeds until rain falls, then completing the life cycle quickly
+   - C) Excreting salt through leaf glands
+   - D) Producing prop roots for stability
+
+3. Mangrove plants manage high salt levels by:
+   - A) Avoiding salty areas altogether
+   - B) Excreting salt through leaf glands or excluding salt at the roots
+   - C) Storing salt in their flowers
+   - D) Dropping their leaves in summer
+
+4. Sturt's desert pea survives long droughts by:
+   - A) Storing water in a swollen trunk
+   - B) Growing extremely deep roots
+   - C) Remaining dormant as seeds and germinating rapidly after rain
+   - D) Producing a thick waxy cuticle
+
+5. **Extended response:** Choose one desert and one mangrove adaptation. For each, name the adaptation, state the type (structural, behavioural, or physiological), and explain how it helps the plant survive in its environment. (Write 3–4 sentences for each.)
+
+---
+
+## Home-study
+
+Create a comparison table with three columns: South-West WA, Desert, and Mangrove. In each column, list two plant adaptations and explain the environmental challenge each one addresses. Use your notes from Lessons 3 and 4 to help you.

@@ -1,0 +1,232 @@
+---
+title: "Species Diversity"
+date: 2026-02-05
+subtitle: "Term 1, Week 1, Lesson 4"
+---
+
+## Do Now
+
+In your book, answer this question:
+
+**"Why do you think it's important to have many different species in an ecosystem?"**
+
+Write 2–3 sentences explaining your thinking.
+
+You have 3 minutes.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. What is predation?
+   - A) When organisms work together
+   - B) When one organism hunts and eats another
+   - C) When organisms compete for food
+   - D) When organisms share a home
+
+2. If water availability decreases in an ecosystem, what is likely to happen first?
+   - A) More animals will appear
+   - B) Plants will grow faster
+   - C) Plants may die or struggle
+   - D) Nothing will change
+
+3. Competition occurs when:
+   - A) Organisms help each other
+   - B) Organisms fight for the same resources
+   - C) Organisms ignore each other
+   - D) Organisms live in different places
+
+4. If a predator is removed from an ecosystem, the prey population will likely:
+   - A) Decrease
+   - B) Stay the same
+   - C) Increase
+   - D) Disappear completely
+
+5. A change in one factor in an ecosystem:
+   - A) Only affects that one factor
+   - B) Can affect many other parts of the ecosystem
+   - C) Has no effect on anything
+   - D) Only affects abiotic factors
+
+## Learning Intentions
+
+Today we are learning about species diversity and why it is important for healthy ecosystems.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined species diversity
+- [ ] Explained why species diversity is important for healthy ecosystems
+- [ ] Compared the diversity of different ecosystems
+
+## Keywords
+
+Species diversity
+: The variety of different species in an ecosystem, including both the number of species and how evenly they are distributed.
+
+Biodiversity
+: The variety of all living things on Earth, including diversity within species, between species, and of ecosystems.
+
+Ecosystem stability
+: The ability of an ecosystem to maintain its structure and function over time, even when disturbed.
+
+Resilience
+: The ability of an ecosystem to recover after a disturbance.
+
+## Learning Activities
+
+### Activity 1 — I DO: Understanding Species Diversity
+
+Species diversity is a key measure of ecosystem health.
+
+#### What is Species Diversity?
+
+**Species diversity** has two parts:
+
+1. **Species richness** — How many different species are present
+2. **Species evenness** — How evenly individuals are distributed among species
+
+**Example:**
+
+| Ecosystem A | Ecosystem B |
+|-------------|-------------|
+| 100 kangaroos | 25 kangaroos |
+| 2 wombats | 25 wombats |
+| 1 echidna | 25 echidnas |
+| 1 snake | 25 snakes |
+| **Total: 4 species, 104 individuals** | **Total: 4 species, 100 individuals** |
+
+Both have the same **species richness** (4 species), but **Ecosystem B has higher diversity** because individuals are more evenly distributed.
+
+#### Why is Species Diversity Important?
+
+| Benefit | Explanation |
+|---------|-------------|
+| **Food web stability** | If one species dies out, predators have other food sources |
+| **Pollination** | Different pollinators can pollinate different plants |
+| **Pest control** | Natural predators keep pest populations in check |
+| **Nutrient cycling** | Different decomposers break down different materials |
+| **Disease resistance** | Diseases are less likely to wipe out all organisms |
+| **Resilience** | Diverse ecosystems recover faster from disturbances |
+
+#### Comparing High and Low Diversity Ecosystems
+
+| High Diversity | Low Diversity |
+|----------------|---------------|
+| Rainforests | Monoculture farms |
+| Coral reefs | Arctic tundra |
+| Wetlands | Deserts |
+| More stable | More vulnerable |
+| More resilient | Less resilient |
+
+#### What Threatens Species Diversity?
+
+- Habitat destruction
+- Pollution
+- Climate change
+- Invasive species
+- Overhunting/overfishing
+
+#### Check for Understanding
+
+**Think about this:** Why might a farm with only one crop be more vulnerable to disease than a natural ecosystem?
+
+*Answer: If a disease affects that crop, it can spread easily to all plants because they're all the same species. In a diverse ecosystem, diseases usually only affect certain species, so others survive.*
+
+---
+
+### Activity 2 — WE DO: Calculating Diversity
+
+Let's practise comparing the diversity of two ecosystems.
+
+#### Species Count Data
+
+**Ecosystem 1: Local Park**
+
+| Species | Number of Individuals |
+|---------|----------------------|
+| Magpie | 15 |
+| Pigeon | 45 |
+| Sparrow | 8 |
+| Crow | 2 |
+| **Total** | **70** |
+
+**Ecosystem 2: Nature Reserve**
+
+| Species | Number of Individuals |
+|---------|----------------------|
+| Magpie | 12 |
+| Kookaburra | 10 |
+| Lorikeet | 14 |
+| Wren | 11 |
+| Honeyeater | 13 |
+| Parrot | 10 |
+| **Total** | **70** |
+
+#### Discussion Questions
+
+1. Which ecosystem has higher species richness?
+2. Which ecosystem has more even distribution?
+3. Which ecosystem do you think is healthier? Why?
+4. What might happen to the park if pigeons got a disease?
+
+---
+
+### Activity 3 — YOU DO: Comparing Ecosystems
+
+Complete the worksheet: **114-species-diversity-you-do.docx**
+
+You will compare species diversity in different ecosystems and answer questions about the importance of biodiversity.
+
+Work independently. You have 12 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+### End of Week Quiz
+
+Answer these 5 multiple choice questions covering everything from this week:
+
+1. An ecosystem is:
+   - A) Only living things
+   - B) Living and non-living things interacting
+   - C) Only non-living things
+   - D) Just animals
+
+2. Which is a biotic factor?
+   - A) Water
+   - B) Temperature
+   - C) Bacteria
+   - D) Sunlight
+
+3. Abiotic factors are:
+   - A) Living components
+   - B) Non-living components
+   - C) Only animals
+   - D) Only plants
+
+4. Species diversity refers to:
+   - A) Only the number of species
+   - B) Only how species interact
+   - C) The variety of species and their distribution
+   - D) Only rare species
+
+5. Why is high species diversity important?
+   - A) It makes ecosystems more stable and resilient
+   - B) It makes ecosystems simpler
+   - C) It has no effect on ecosystems
+   - D) It only affects plants
+
+---
+
+## Home-study
+
+Choose an Australian ecosystem (e.g., Great Barrier Reef, Daintree Rainforest, or a local area). Research 5 species that live there and explain why diversity is important for that ecosystem.

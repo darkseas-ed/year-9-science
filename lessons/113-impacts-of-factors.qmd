@@ -1,0 +1,187 @@
+---
+title: "Impacts of Biotic and Abiotic Factors"
+date: 2026-02-04
+subtitle: "Term 1, Week 1, Lesson 3"
+---
+
+## Do Now
+
+In your book, answer this question:
+
+**"List as many abiotic factors as you can remember."**
+
+Try to get at least 5!
+
+You have 3 minutes.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. Biotic factors are:
+   - A) Non-living things
+   - B) Living things
+   - C) Only plants
+   - D) Only animals
+
+2. Which of these is an abiotic factor?
+   - A) A tree
+   - B) A bird
+   - C) Temperature
+   - D) Bacteria
+
+3. A dead leaf is classified as:
+   - A) Abiotic because it's not moving
+   - B) Biotic because it was once alive
+   - C) Neither biotic nor abiotic
+   - D) Abiotic because it's on the ground
+
+4. Which of these is a biotic factor in a pond ecosystem?
+   - A) Water
+   - B) Mud
+   - C) Algae
+   - D) Sunlight
+
+5. Soil is an example of:
+   - A) A biotic factor
+   - B) An abiotic factor
+   - C) A living organism
+   - D) A population
+
+## Learning Intentions
+
+Today we are learning about how biotic and abiotic factors affect organisms and ecosystems.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Described how abiotic factors affect living organisms
+- [ ] Explained how biotic factors influence other organisms
+- [ ] Predicted what might happen to an ecosystem if a factor changes
+
+## Keywords
+
+Predation
+: When one organism (the predator) hunts and eats another organism (the prey).
+
+Competition
+: When organisms struggle against each other for the same limited resources.
+
+Symbiosis
+: A close relationship between two different species living together.
+
+Adaptation
+: A feature or behaviour that helps an organism survive in its environment.
+
+## Learning Activities
+
+### Activity 1 — I DO: How Factors Affect Ecosystems
+
+Both biotic and abiotic factors have powerful effects on organisms and ecosystems.
+
+#### How Abiotic Factors Affect Organisms
+
+| Abiotic Factor | Effect on Organisms |
+|---------------|---------------------|
+| **Temperature** | Affects metabolism, breeding seasons, and where organisms can live |
+| **Water** | Essential for all life; availability determines which species can survive |
+| **Light** | Needed for photosynthesis; affects animal behaviour (nocturnal vs diurnal) |
+| **Soil** | Provides nutrients and anchorage for plants; affects what can grow |
+| **Oxygen** | Needed for respiration; varies in water and at high altitudes |
+
+**Example:** In a drought (less water), plants may die, which means less food for herbivores, which means less food for carnivores. One abiotic change affects the whole ecosystem!
+
+#### How Biotic Factors Affect Organisms
+
+| Biotic Interaction | Description | Example |
+|-------------------|-------------|---------|
+| **Predation** | One organism eats another | A hawk eats a mouse |
+| **Competition** | Organisms fight for resources | Two plants competing for sunlight |
+| **Symbiosis** | Species live closely together | Clownfish living in anemones |
+| **Decomposition** | Organisms break down dead matter | Fungi breaking down fallen logs |
+
+**Example:** If a new predator is introduced to an ecosystem, prey populations may decrease, which can affect the plants they eat and the predators that eat them.
+
+#### The Ripple Effect
+
+Changes to one factor can cause a "ripple effect" through the whole ecosystem:
+
+```
+Drought (abiotic change)
+    ↓
+Plants die
+    ↓
+Herbivores have less food → some die or move away
+    ↓
+Predators have less prey → some die or move away
+    ↓
+Decomposers have more dead material to break down
+```
+
+#### Check for Understanding
+
+**Think about this:** What might happen to a forest ecosystem if a disease killed all the trees?
+
+*Answer: Animals that live in trees would lose their homes. Animals that eat leaves or fruit would lose food. Animals that eat those animals would also be affected. The soil might erode without tree roots. The whole ecosystem would change dramatically.*
+
+---
+
+### Activity 2 — WE DO: Think-Pair-Share
+
+#### Scenario Analysis
+
+**Scenario: A drought hits a grassland ecosystem**
+
+**THINK (2 minutes):** On your own, predict what might happen to:
+
+- The grass
+- The insects that eat grass
+- The birds that eat insects
+- The soil
+
+**PAIR (3 minutes):** Compare your predictions with your partner. Did you think of the same effects?
+
+**SHARE:** We'll discuss as a class and create a diagram showing the ripple effects.
+
+| Factor/Organism | Predicted Effect |
+|-----------------|------------------|
+| Grass | |
+| Insects | |
+| Birds | |
+| Soil | |
+| Other effects? | |
+
+---
+
+### Activity 3 — YOU DO: Case Study
+
+Complete the worksheet: **113-impacts-of-factors-you-do.docx**
+
+You will examine a real ecosystem case study and analyse how changes in biotic and abiotic factors affect the ecosystem.
+
+Work independently. You have 12 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+### Short Answer
+
+Answer these questions in your book:
+
+1. Describe ONE way an abiotic factor could affect a plant.
+
+2. Describe ONE way a biotic factor could affect an animal.
+
+---
+
+## Home-study
+
+Research one example of how climate change (an abiotic change) is affecting an Australian ecosystem. Write 3–4 sentences describing the impact.

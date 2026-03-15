@@ -1,0 +1,86 @@
+---
+title: "Y9 Science"
+---
+
+# Year 9 Science 2026
+
+## Terms
+
+| Term | Strand                  |
+|------|-------------------------|
+| 1    | [Biology]( ./term-1-outline.qmd)                 |
+| 2    | Chemistry               |
+| 3    | Physical Science        |
+| 4    | Earth and Space Science |
+
+## Coordinators
+
+Coordinators:
+
+- Gavin Coombes (KEA)
+- Christie Halstead (Ad)
+- Jeewani Ponsuge
+
+## Assessments
+8 assessments (2 per term) worth ~12.5% each
+
+Basic structure - 3x tests, 3x Science Investigations/scientific report, 2x research assessments
+
+Year 10 – 3x tests, 2x exams, 2x Science Investigations/scientific report, 1x research assessment
+
+Tasks:
+
+* Task 1: Biology test (W7 - 10%)
+* Task 2: Bean Growth Investigation (W9 – 15%)
+* Task 3: Trends in Periodic Table (Research) (W5 – 12.5%)
+* Task 4: Chemistry test (W10 – 12.5%)
+* Task 5: Optics investigation
+* Task 6: Physics Test
+* Task 7: Greenhouse Effect Research and Investigation
+* Task 8: Earth Test
+
+## Lessons
+
+### Week 1
+
+- [What is an ecosystem?](111-what-is-an-ecosystem.qmd)
+- [Abiotic and Biotic factors]( ./112-abiotic-and-biotic-factors.qmd)
+- [Impacts of Biotic and Abiotic Factors](./113-impacts-of-factors.qmd)
+- [Species Diversity](./114-species-diversity.qmd)
+
+### Week 2
+
+- [Review of Week 1 Concepts](./121-review-week1.qmd)
+- [Competition in Ecosystems](./122-competition-ecosystems.qmd)
+- [Predation in Ecosystems](./123-predation-ecosystems.qmd)
+- [Symbiotic Relationships](./124-symbiotic-relationships.qmd)
+
+
+### Week 3
+
+- [Introduction to Adaptations](./131-introduction-to-adaptations.qmd)
+- [Types of Adaptations](./132-types-of-adaptations.qmd)
+- [Plant Adaptations to Local and South-West WA Ecosystems](./133-plant-adaptations-sw-wa.qmd)
+- [Plant Adaptations to Deserts and Mangroves](./134-plant-adaptations-desert-mangrove.qmd)
+
+### Week 4
+
+- [Plant Adaptations to Bushfire](./141-plant-adaptations-bushfire.qmd)
+- [Vertebrate Adaptations to Local and Desert Ecosystems](./142-vertebrate-adaptations-local-desert.qmd)
+- [Vertebrate Adaptations to Polar and Marine Ecosystems](./143-vertebrate-adaptations-polar-marine.qmd)
+- [Comparing Adaptations: Research and Presentation](./144-comparing-adaptations-research.qmd)
+
+### Week 5
+
+- [Responding to the Environment](./151-responding-to-environment.qmd)
+- [Endotherms and Ectotherms](./152-endotherms-and-ectotherms.qmd)
+- [How Endotherms Regulate Temperature](./153-how-endotherms-regulate-temperature.qmd)
+- [How Ectotherms Regulate Temperature](./154-how-ectotherms-regulate-temperature.qmd)
+
+### Week 6
+
+- [Comparing Heat Transfer in Endotherms and Ectotherms](./161-heat-transfer-endotherms-ectotherms.qmd)
+- [Plant Tropisms: Phototropism and Geotropism](./162-phototropism-and-geotropism.qmd)
+- [Hydrotropism and Other Plant Responses](./163-hydrotropism-and-other-plant-responses.qmd)
+- [Review and Consolidation I](./164-review-and-consolidation.qmd)
+

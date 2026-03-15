@@ -1,0 +1,136 @@
+---
+title: "Competition in Ecosystems"
+date: 2026-02-10
+subtitle: "Term 1, Week 2, Lesson 2"
+---
+
+## Do Now
+
+1. Brainstorm three resources that organisms might compete for. Write one example organism for each.
+2. If two plants are growing very close together, what might they be competing for?
+3. Do you think animals of the **same** species or **different** species compete more? Explain your reasoning in one sentence.
+
+## Daily Review
+
+1. What is the term for a non-living component of an ecosystem?
+   - A) Biotic factor
+   - B) Abiotic factor
+   - C) Producer
+   - D) Consumer
+
+2. Which of the following best describes an ecosystem?
+   - A) A group of the same species living together
+   - B) All the animals in a particular area
+   - C) A community of living organisms interacting with their non-living environment
+   - D) The physical environment where an organism lives
+
+3. A decomposer is an organism that:
+   - A) Produces its own food through photosynthesis
+   - B) Hunts and eats other animals
+   - C) Breaks down dead organic matter and recycles nutrients
+   - D) Competes with other organisms for sunlight
+
+4. Which of the following is a biotic factor in a forest ecosystem?
+   - A) Rainfall
+   - B) Soil pH
+   - C) Fungi
+   - D) Temperature
+
+5. If an abiotic factor such as water availability decreases in an ecosystem, what is the most likely effect?
+   - A) Species diversity increases
+   - B) Producers are unaffected
+   - C) Some organisms may struggle to survive
+   - D) Consumers will produce their own food
+
+## Learning Intentions
+
+Today we are learning about how organisms compete for limited resources and how competition shapes the structure of ecosystems.
+
+## Success Criteria
+
+- [ ] Define intraspecific and interspecific competition
+- [ ] Describe examples of competition for resources such as food, water, light, and territory
+- [ ] Explain how competition can influence population size and species distribution within an ecosystem
+
+## Keywords
+
+competition
+: An interaction where organisms struggle against each other for the same limited resources.
+
+intraspecific competition
+: Competition between members of the **same** species.
+
+interspecific competition
+: Competition between members of **different** species.
+
+resource
+: Something an organism needs to survive and reproduce (e.g. food, water, light, space, mates).
+
+competitive exclusion principle
+: The idea that two species competing for the exact same niche cannot coexist indefinitely — one will outcompete the other.
+
+resource partitioning
+: When species divide up resources to reduce competition, allowing them to coexist.
+
+## Learning Activities
+
+### Activity 1 — I DO: Types of Competition
+
+**Teacher explains intraspecific and interspecific competition with visual examples.**
+
+Key points to cover:
+
+- **What is competition?** Competition occurs when two or more organisms require the same limited resource. Resources include food, water, light, space, territory, and mates.
+- **Intraspecific competition** (intra = within): Competition between members of the same species.
+  - Example: Male red kangaroos boxing to compete for mates.
+  - Example: Seedlings of the same eucalyptus species competing for sunlight and water in a dense stand.
+  - This type of competition is often the most intense because individuals have identical resource needs.
+- **Interspecific competition** (inter = between): Competition between members of different species.
+  - Example: Cane toads outcompeting native frogs for food and breeding sites in Queensland.
+  - Example: Introduced European rabbits competing with bilbies for burrow space and food in arid Australia.
+- **Competitive exclusion principle:** When two species compete for exactly the same resources in the same niche, one will eventually outcompete and displace the other.
+- **Resource partitioning:** Species can reduce competition by using resources differently — e.g. different bird species feeding at different heights in the same tree.
+
+**Check for Understanding:** Thumbs up/down: "Is two magpies fighting over the same worm intraspecific or interspecific competition?" (Intraspecific — same species.)
+
+![Intraspecific and interspecific competition in Australian ecosystems.](./img/competition-intraspecific-interspecific.png){fig-alt="Examples of intraspecific and interspecific competition in Australian ecosystems" width=600 fig-align="center"}
+
+### Activity 2 — WE DO: Competition Case Study
+
+**Class analyses a case study of competition between native and introduced species in Australia.**
+
+Case Study: **European Rabbit vs. Greater Bilby**
+
+Read the following information and answer the questions as a class:
+
+> When European rabbits were introduced to Australia in 1859, their population exploded. Rabbits eat many of the same grasses and plants that bilbies rely on for food. Both species also dig burrows for shelter and raising young. Over time, rabbit populations spread across arid and semi-arid Australia — the same habitat where bilbies live.
+
+Discussion questions:
+
+1. What type of competition is this — intraspecific or interspecific? Justify your answer.
+2. What resources are the rabbits and bilbies competing for?
+3. Which species has the competitive advantage? Why?
+4. How has this competition affected bilby populations?
+5. What might happen if rabbit numbers were reduced through conservation efforts?
+
+### Activity 3 — YOU DO: Competition Scenarios Worksheet
+
+**Students independently complete a worksheet analysing competition scenarios.**
+
+For each scenario below, identify: (a) the type of competition (intraspecific or interspecific), (b) the resource being competed for, and (c) the predicted outcome for each species/individual.
+
+| Scenario | Type | Resource | Predicted Outcome |
+|----------|------|----------|-------------------|
+| Two male wedge-tailed eagles fighting over nesting territory in the same valley | | | |
+| Native wildflowers and an introduced weed species growing in the same patch of bushland | | | |
+| Several banksia seedlings growing in a cluster, all reaching for sunlight | | | |
+| Feral cats hunting the same small mammals as native quolls | | | |
+| A pod of dolphins chasing the same school of fish | | | |
+
+## Reflection
+
+1. Define **intraspecific competition** in your own words.
+2. Define **interspecific competition** in your own words.
+3. A farmer notices that crop plants growing close together produce less fruit than those spaced further apart. What type of competition is occurring and what resource is likely being competed for?
+4. Explain why intraspecific competition is often more intense than interspecific competition.
+5. Describe one example of how competition between an introduced species and a native species has affected Australian ecosystems.

@@ -1,0 +1,298 @@
+---
+title: "Responding to the Environment"
+date: 2026-03-02
+subtitle: "Term 1, Week 5, Lesson 1"
+---
+
+![A plant responds to the stimulus of the landing fly.](./img/y9-response-stimuli-1.jpg){fig-alt="Diagram showing organisms responding to environmental stimuli — plant bending toward light, animal fleeing predator" width=580 fig-align="center"}
+
+## Do Now
+
+Look at the image below of a plant on a windowsill.
+
+![Plant bending toward window phototropism light stimulus response](./img/y9-phototropism_flowering_shamrock-5a96b6821f4e1300369044f8-3219818411.jpg){fig-alt="Potted plant bending toward a window showing phototropism" width=400 fig-align="center"}
+
+**In your book, answer the following:**
+
+1. What do you notice about the direction the plant is growing?
+2. What do you think is causing this?
+3. What do you predict would happen if the plant was rotated 180° so the leaves
+   faced away from the window?
+
+You have **3 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. Which WA plant produces woody follicles that open after fire to release
+   seeds?
+   - A) Jarrah
+   - B) Banksia
+   - C) Tuart
+   - D) Sheoak
+
+2. A lignotuber helps a plant survive bushfire by:
+   - A) Insulating the cambium layer from heat
+   - B) Releasing seeds when the temperature rises
+   - C) Producing new shoots directly from the bark
+   - D) Storing energy and dormant buds underground
+
+3. Nocturnal behaviour in the bilby is classified as:
+   - A) A structural adaptation
+   - B) A physiological adaptation
+   - C) A behavioural adaptation
+   - D) A learned trait
+
+4. Countercurrent heat exchange in penguin flippers is classified as:
+   - A) A structural adaptation
+   - B) A behavioural adaptation
+   - C) A physiological adaptation
+   - D) An ecological adaptation
+
+5. Blubber in seals is classified as:
+   - A) A behavioural adaptation
+   - B) A physiological adaptation
+   - C) A structural adaptation
+   - D) An ecological adaptation
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) B 2) D 3) C 4) C 5) C
+:::
+
+## Learning Intentions
+
+Today we are learning about stimulus–response pathways and homeostasis — the
+mechanisms that allow all organisms to detect changes in their environment and
+respond in ways that support their survival.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined the terms stimulus, receptor, coordinator, effector and response,
+      and used them to describe a stimulus–response pathway
+- [ ] Given at least two examples each of how plants and how animals respond to
+      environmental change
+- [ ] Explained why the ability to detect and respond to stimuli is essential
+      for an organism's survival
+
+## Keywords
+
+Stimulus
+: **What changes** — a detectable change in the internal or external environment that triggers a
+  response in an organism. Plural: stimuli. Examples include changes in
+  temperature, light, moisture, chemicals, touch, pressure and sound.
+
+Receptor
+: **What detects the change** — a specialised cell or organ that detects a specific type of stimulus and
+  converts it into a signal that can be processed by a coordinator.
+  Different receptors respond to different stimuli (e.g. thermoreceptors detect
+  temperature; photoreceptors detect light).
+
+Coordinator
+: **Decides what to do** — a structure such as the brain, spinal cord or an endocrine
+  (hormone-producing) gland that receives signals from receptors, processes
+  the information, and directs an appropriate response.
+
+Effector
+: **Makes the change** — a muscle or gland that carries out the response directed by the coordinator.
+  Muscles cause movement; glands release hormones or other substances.
+
+Response
+: **The overall response** — the action taken by an organism as a result of receiving and processing a
+  stimulus.
+
+Homeostasis
+: The maintenance of a stable internal environment within an organism, despite
+  changes in external conditions. From the Greek *homoios* (similar) and
+  *stasis* (standing still). Examples include temperature regulation, blood pH
+  and blood glucose control.
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: How Organisms Detect and Respond to Change
+
+#### The Stimulus–Response Model
+
+All responses in living organisms follow the same basic pathway:
+
+> **Stimulus → Receptor → Coordinator → Effector → Response**
+
+![Stimulus response pathway diagram](./img/y9-stimulus-response_med_hr-4001326168.jpg){fig-alt="Diagram of the stimulus-response pathway showing stimulus receptor coordinator effector response with arrows" width=800 fig-align="center"}
+
+| Component       | Role                                            | Example                                         |
+|-----------------|-------------------------------------------------|-------------------------------------------------|
+| **Stimulus**    | The change that is detected                     | Rising temperature, drop in light levels        |
+| **Receptor**    | Detects the stimulus                            | Thermoreceptors in skin; photoreceptors in eyes |
+| **Coordinator** | Processes the signal and coordinates a response | Brain, spinal cord, hypothalamus, hormones      |
+| **Effector**    | Carries out the response                        | Muscles, glands                                 |
+| **Response**    | The action taken                                | Sweating, moving to shade, stomata closing      |
+
+#### Types of Stimuli
+
+Organisms respond to many different types of stimuli:
+
+- **Physical:** temperature, light, sound, pressure, touch, gravity
+- **Chemical:** CO₂ levels, oxygen, nutrients, toxins, hormones
+- **Biological:** presence of a predator, competitor, or mate
+
+#### Plant Responses
+
+Plants cannot move away from danger, but they respond using **tropisms** —
+directional growth responses to stimuli.
+
+![Phototropism geotropism tropism diagram plant responses light gravity](./img/y9-Phototropism-3769685209.jpg){fig-alt="Diagram showing phototropism (shoot bending toward light) and geotropism (root growing downward, shoot upward)" width=550 fig-align="center"}
+
+| Tropism                       | Stimulus                        | Plant Response                                                             |
+|-------------------------------|---------------------------------|----------------------------------------------------------------------------|
+| **Phototropism**              | Light                           | Shoots grow *toward* light (positive); roots grow *away* (negative)        |
+| **Geotropism** (gravitropism) | Gravity                         | Roots grow *downward*; shoots grow *upward*                                |
+| **Stomatal response**         | CO₂ levels, light, water stress | Stomata open in the light to allow CO₂ in; close when water stress is high |
+
+![Stomata response to low water environment](./img/y9-stomata-response.jpg){fig-alt="Stomata response to low water environment" width=550 fig-align="center"}
+
+**WA Example:** During hot summer afternoons in the jarrah forest, banksias and
+eucalypts close their stomata to reduce water loss by transpiration. This is a
+stimulus–response to the combined stimuli of high temperature and falling water
+availability.
+
+#### Animal Responses
+
+Animals have two main communication systems for responding to stimuli:
+
+| System                          | Speed                     | Duration   | Examples                                                |
+|---------------------------------|---------------------------|------------|---------------------------------------------------------|
+| **Nervous system**              | Very fast (milliseconds)  | Short-term | Reflex actions, withdrawal from pain, eye-blink reflex  |
+| **Endocrine (hormonal) system** | Slower (seconds to hours) | Long-term  | Adrenaline release during stress, reproductive hormones |
+
+**Reflex arc:** An automatic, rapid response that bypasses the brain for speed.
+When you touch a hot object, signals travel from receptor → spinal cord →
+effector muscle, and your hand withdraws *before* your brain consciously
+registers pain.
+
+#### Homeostasis
+
+All the stimulus–response systems in an organism work together to maintain
+**homeostasis** — a stable internal environment.
+
+![Homeostasis negative feedback loop](./img/y9-homeostatis-1.jpg){fig-alt="Diagram of homeostasis negative feedback loop showing set point deviation response and return" width=560 fig-align="center"}
+
+- Variables that are regulated include: body temperature, blood pH, blood
+  glucose, water balance.
+- The key mechanism is **negative feedback**: when a variable moves away from
+  its set point, the body responds in a way that *opposes* and *reverses* the
+  change — returning the variable to normal.
+
+**WA Examples of Homeostatic Responses:**
+
+| Animal                   | Stimulus                       | Response                                                                      | Type                        |
+|--------------------------|--------------------------------|-------------------------------------------------------------------------------|-----------------------------|
+| Banksia                  | High temperature, low humidity | Stomata close → reduces transpiration                                         | Physiological               |
+| Quokka (Rottnest Island) | Rising midday temperature      | Retreats into dense shade, reduces activity                                   | Behavioural                 |
+| Thorny devil             | Cool morning temperatures      | Orients body perpendicular to sun rays to maximise solar radiation absorption | Behavioural                 |
+| Red kangaroo             | Rising core body temperature   | Licks forearms; increased panting                                             | Physiological + Behavioural |
+
+#### Check for Understanding
+
+Fill in the blank boxes to complete the stimulus–response chain:
+
+**Scenario:** A bilby emerges from its burrow and detects the scent of a
+predator on the night breeze.
+
+| Stimulus                   | Receptor | Coordinator | Effector | Response |
+|----------------------------|----------|-------------|----------|----------|
+| Chemical scent of predator |          |             |          |          |
+
+*Answer: Receptor — olfactory (smell) receptors in the nose; Coordinator — brain
+(processes the threat signal); Effector — leg muscles; Response — retreats
+rapidly back into burrow*
+
+---
+
+### Activity 2 — WE DO: Stimulus–Response Table for WA Organisms
+
+![Examples of homeostatic responses.](./img/y9-response-suite.png){fig-alt="Diagram of homeostasis negative feedback loop showing set point deviation response and return" width=560 fig-align="center"}
+
+As a class, we will complete a stimulus–response table for three WA organisms —
+one plant, one ectotherm and one endotherm.
+
+| Organism     | Stimulus                                | Receptor | Coordinator | Effector | Response                    | Type (S/B/P) |
+|--------------|-----------------------------------------|----------|-------------|----------|-----------------------------|:------------:|
+| Banksia      | Hot, dry afternoon — water stress       |          |             |          | Stomata close               |              |
+| Thorny devil | Low body temperature at dawn            |          |             |          | Orients body toward sun     |              |
+| Red kangaroo | Core body temperature rising above 38°C |          |             |          | Licks forearms; seeks shade |              |
+
+#### Discussion Questions
+
+- What do all three responses have in common? What does each organism *gain*
+  from responding to its stimulus?
+- The thorny devil's morning orientation is voluntary. Does that make it less
+  effective as a response? Why or why not?
+- Can you think of a scenario in which a stimulus–response might *fail* — where
+  the response doesn't return the organism to its set point? What might happen?
+
+---
+
+### Activity 3 — YOU DO: Stimulus–Response Pathways
+
+![Organisms responding to stimuli](./img/y9-animal-behaviors-in-response-to-the-stimuli-p4-6-638-2855983987.jpg){fig-alt="Student-facing worksheet header image showing different organisms responding to stimuli" width=600 fig-align="center"}
+
+Complete the worksheet: **151-responding-to-environment-you-do.docx**
+
+You will complete stimulus–response chains for given scenarios and explain why
+each response improves the organism's survival chances.
+
+Work independently. You have **10 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. A specialised cell that detects a stimulus is called:
+   - A) An effector
+   - B) A receptor
+   - C) A coordinator
+   - D) A response
+
+2. Which of the following is the correct order in a stimulus–response pathway?
+   - A) Response → receptor → effector → stimulus
+   - B) Stimulus → effector → receptor → response
+   - C) Stimulus → receptor → coordinator → effector → response
+   - D) Receptor → stimulus → response → effector
+
+3. Homeostasis refers to:
+   - A) An organism's ability to move toward a food source
+   - B) The maintenance of a stable internal environment
+   - C) The process of growing new leaves after fire
+   - D) The study of organisms in ecosystems
+
+4. A banksia closing its stomata on a hot afternoon is responding to which
+   stimulus?
+   - A) Predator detection
+   - B) Change in light direction
+   - C) Water stress and rising leaf temperature
+   - D) Soil nutrient levels
+
+5. **Short answer:** Using the stimulus–response model, describe what happens
+   when you touch a hot object and quickly pull your hand away. Identify the
+   stimulus, receptor, coordinator, effector and response in your answer.
+
+---
+
+## Home-study
+
+Think of a time you responded to a change in your environment today (e.g.
+turning on a light, putting on a jumper, eating when hungry). Write a short
+paragraph (3–4 sentences) describing your stimulus–response using the correct
+vocabulary: stimulus, receptor, coordinator, effector and response.

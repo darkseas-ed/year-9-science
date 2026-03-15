@@ -1,0 +1,214 @@
+---
+title: "Introduction to Adaptations"
+date: 2026-02-16
+subtitle: "Term 1, Week 3, Lesson 1"
+---
+
+## Do Now
+
+In your book, answer this question:
+
+**Look at the three images below. For each organism, write down one feature you think helps it survive in its environment.**
+
+![Thorny devil, bottlebrush plant, and quokka.](./img/y9-adaptations-do-now.png){fig-alt="Thorny devil lizard Australia, bottlebrush callistemon flower, quokka Rottnest Island" width=800 fig-align="center"}
+
+| Organism | Feature that helps it survive | How does it help? |
+|----------|-------------------------------|-------------------|
+| Thorny devil | | |
+| Bottlebrush | | |
+| Quokka | | |
+
+You have 3 minutes.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. A close, long-term interaction between two different species is called:
+   - A) Competition
+   - B) Predation
+   - C) Symbiosis
+   - D) Decomposition
+
+2. Which type of symbiotic relationship benefits both organisms?
+   - A) Parasitism
+   - B) Commensalism
+   - C) Mutualism
+   - D) Predation
+
+3. A tick feeding on a kangaroo is an example of:
+   - A) Mutualism
+   - B) Commensalism
+   - C) Competition
+   - D) Parasitism
+
+4. When two different species compete for the same food source, this is called:
+   - A) Intraspecific competition
+   - B) Interspecific competition
+   - C) Mutualism
+   - D) Predation
+
+5. In a predator-prey relationship, what happens to the predator population when the prey population decreases?
+   - A) It increases
+   - B) It stays the same
+   - C) It decreases
+   - D) It doubles
+
+## Learning Intentions
+
+Today we are learning about what an adaptation is and why adaptations are essential for the survival and reproduction of organisms.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Defined the term adaptation as an inherited characteristic that improves an organism's ability to survive and reproduce
+- [ ] Distinguished between adaptations and learned behaviours or temporary changes
+- [ ] Identified adaptations in familiar Australian organisms and explained how each aids survival
+
+## Keywords
+
+Adaptation
+: An inherited characteristic that improves an organism's ability to survive and reproduce in its particular environment.
+
+Natural selection
+: The process by which organisms with traits better suited to their environment are more likely to survive, reproduce, and pass on those traits to the next generation.
+
+Inherited trait
+: A characteristic that is passed from parents to offspring through genes.
+
+Survival advantage
+: A feature or behaviour that increases an organism's chances of staying alive and reproducing in its environment.
+
+## Learning Activities
+
+### Activity 1 — I DO: What Is an Adaptation?
+
+#### Defining Adaptation
+
+An **adaptation** is an inherited characteristic that improves an organism's ability to survive and reproduce in its environment.
+
+Key points:
+
+- Adaptations are **inherited** — they are passed from parents to offspring through genes.
+- Adaptations develop over **many generations** through a process called **natural selection**.
+- Organisms with beneficial traits are more likely to survive, reproduce, and pass those traits on.
+
+![Natural selection over generations.](./img/y9-natural-selection.png){fig-alt="Diagram showing natural selection over generations" width=600 fig-align="center"}
+
+#### How Do Adaptations Develop?
+
+1. Within a population, individuals have **variation** — they are not all identical.
+2. Some variations give a **survival advantage** in a particular environment.
+3. Individuals with the advantage are more likely to **survive and reproduce**.
+4. Over many generations, the beneficial trait becomes **more common** in the population.
+
+**Example:** Bilbies have large ears. Bilbies with larger ears could lose more body heat in the hot desert, helping them stay cool. Over many generations, large ears became a common feature of the bilby population.
+
+![Greater bilby large ears desert Australia.](./img/y9-bilby-australian-geographic-4092399918.jpg){fig-alt="Greater bilby showing large ears" width=400 fig-align="center"}
+
+#### What Is NOT an Adaptation?
+
+Not every feature or behaviour is an adaptation. Ask yourself: **"Is this trait inherited and does it help the organism survive in its environment?"**
+
+| Feature | Adaptation? | Why / Why not? |
+|---------|:-----------:|----------------|
+| A bilby's large ears | ✓ | Inherited trait that helps regulate body temperature in the desert |
+| A dog that learns to sit on command | ✗ | Learned behaviour — not inherited |
+| A person getting a suntan | ✗ | Temporary response to the environment — not passed to offspring |
+| A banksia's woody follicles that open after fire | ✓ | Inherited structural feature that aids seed dispersal after bushfire |
+| A scar on an animal from a fight | ✗ | Result of injury — not inherited |
+
+#### Australian Examples of Adaptations
+
+| Organism | Adaptation | How it helps |
+|----------|-----------|--------------|
+| **Bilby** | Large ears | Radiates excess body heat in hot desert environments |
+| **Banksia** | Woody follicles that open after fire | Seeds are released into freshly cleared ground with reduced competition |
+| **Dugong** (Shark Bay) | Streamlined body shape | Moves efficiently through water to access seagrass beds |
+| **Thorny devil** | Spiny skin with channels | Collects moisture from dew and directs it to the mouth |
+| **Boab tree** (Kimberley) | Swollen trunk | Stores water during the dry season |
+
+![Dugong Shark Bay Western Australia seagrass.](./img/y9-Dugong-4854890.jpg){fig-alt="Dugong swimming in Shark Bay" width=500 fig-align="center"}
+
+#### Check for Understanding
+
+**Quick check:** Classify each of the following as 'adaptation' or 'not an adaptation':
+
+1. A kangaroo's strong hind legs → ___________
+2. A pet bird that talks → ___________
+3. A cactus with thick, waxy skin → ___________
+4. A broken branch on a tree → ___________
+
+*Answers: 1. Adaptation, 2. Not an adaptation (learned), 3. Adaptation, 4. Not an adaptation (damage)*
+
+---
+
+### Activity 2 — WE DO: Identifying Adaptations in Australian Organisms
+
+As a class, we will examine a set of organism cards and identify adaptations for each.
+
+![Australian organisms with visible adaptations — classroom activity cards.](./img/131-we-do-organism-cards.png){fig-alt="Cards showing Australian organisms with visible adaptations" width=600 fig-align="center"}
+
+#### For each organism, complete the table:
+
+| Organism | One adaptation you can identify | How does this adaptation help it survive? |
+|----------|-------------------------------|------------------------------------------|
+| Wedge-tailed eagle | | |
+| Red kangaroo | | |
+| Bottle tree (Kimberley) | | |
+| Numbat | | |
+| Jarrah tree | | |
+| Dolphin (Shark Bay) | | |
+
+#### Discussion Questions
+
+- Which adaptations were easiest to spot? Why?
+- Were any organisms difficult to identify adaptations for?
+- Could any of these adaptations be useful in a different environment?
+
+---
+
+### Activity 3 — YOU DO: Matching Adaptations to Survival
+
+Complete the worksheet: **131-introduction-to-adaptations-you-do.docx**
+
+You will match organisms to their adaptations and write a sentence explaining how each adaptation improves survival.
+
+Work independently. You have 10 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+### Quick Quiz
+
+1. An adaptation is best defined as:
+   - A) Any feature of an organism
+   - B) An inherited characteristic that helps an organism survive and reproduce
+   - C) A behaviour that an animal learns
+   - D) A temporary change in response to the environment
+
+2. True or False: A dog learning to fetch a ball is an example of an adaptation.
+
+3. True or False: Adaptations develop over many generations through natural selection.
+
+4. The bilby's large ears are an adaptation because they help the bilby:
+   - A) Hear predators from far away
+   - B) Dig burrows faster
+   - C) Radiate excess body heat in the desert
+   - D) Attract a mate
+
+5. A student notices that a lizard changes colour when it moves from a rock to grass. Is this necessarily an adaptation? Explain your reasoning in one sentence.
+
+---
+
+## Home-study
+
+Choose one Australian animal or plant. Research one adaptation it has and write a short paragraph (3–4 sentences) explaining what the adaptation is, what type of environment the organism lives in, and how the adaptation helps it survive.

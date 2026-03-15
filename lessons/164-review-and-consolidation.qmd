@@ -1,0 +1,242 @@
+---
+title: "Review and Consolidation I"
+date: 2026-03-12
+subtitle: "Term 1, Week 6, Lesson 4"
+---
+
+![Year 9 biology review consolidation thermoregulation tropisms endotherm ectotherm heat transfer plant responses Western Australia](./img/y9-review-consolidation-suite.png){fig-alt="Composite image showing a kangaroo thermoregulating, a bobtail lizard basking, and a banksia seedling with labelled tropism arrows — representing all major themes of Weeks 5 and 6" width=640 fig-align="center"}
+
+## Do Now
+
+**Quick recall — no notes.** Answer each question in one sentence or less:
+
+1. Name the two types of thermoregulation strategy and give one WA example of each.
+2. What is the hormone responsible for phototropism, and where is it produced?
+3. Name all four mechanisms of heat transfer.
+4. What is the difference between a tropism and a nastic movement?
+5. Which direction does gravity cause auxin to move in a horizontal seedling — and what effect does this have on the shoot?
+
+You have **4 minutes**.
+
+## Daily Review
+
+Answer the following 5 multiple choice questions in your book:
+
+1. A plant root detects a moisture gradient and grows toward the wetter zone. This is an example of:
+   - A) Negative geotropism
+   - B) Thigmotropism
+   - C) Positive hydrotropism
+   - D) Photonasty
+
+2. A tendril on a WA climbing vine wraps tightly around a wire fence. This is an example of:
+   - A) Positive hydrotropism
+   - B) Positive thigmotropism
+   - C) Nastic movement
+   - D) Negative phototropism
+
+3. Both endotherms and ectotherms use evaporation to lose heat. Which of the following is an example of evaporative cooling in a WA endotherm?
+   - A) A dugite snake resting under a cool flat rock
+   - B) A red kangaroo licking its sparsely furred forearms
+   - C) A bobtail lizard basking on warm bitumen
+   - D) A bilby huddling in its burrow
+
+4. Which of the following statements correctly compares phototropism and geotropism?
+   - A) Both are driven by uneven light distribution across the shoot tip
+   - B) Both result in shoots growing upward and roots growing downward
+   - C) Both are caused by uneven auxin distribution, but each is triggered by a different stimulus (light vs gravity)
+   - D) Phototropism is permanent; geotropism reverses when the stimulus is removed
+
+5. A lizard in the Kimberley flattens its dark-coloured back toward the morning sun. Which heat transfer mechanism is it primarily using to gain heat?
+   - A) Conduction
+   - B) Convection
+   - C) Radiation
+   - D) Evaporation
+
+::: {.callout-note collapse="true"}
+## Answers
+
+1) C 2) B 3) B 4) C 5) C
+:::
+
+## Learning Intentions
+
+Today we are learning to synthesise the key concepts from Weeks 5 and 6 into a coherent understanding of how organisms detect and respond to environmental change, and to apply these concepts to explain organism behaviour in new, complex scenarios.
+
+## Success Criteria
+
+You will be successful if you have:
+
+- [ ] Constructed or contributed to a concept map that accurately links stimulus–response, endotherm/ectotherm thermoregulation, heat transfer mechanisms, and plant tropisms
+- [ ] Analysed a multi-organism scenario and identified at least four distinct response mechanisms across different organisms
+- [ ] Compared the stimulus–response pathway in an animal (thermoregulating endotherm) and a plant (tropism) — identifying similarities and differences in how the response is coordinated
+
+## Keywords
+
+No new keywords today — consolidation of all terms from Weeks 5 and 6.
+
+**Key terms to review:**
+stimulus · receptor · coordinator · effector · response · homeostasis · endotherm · ectotherm · thermoregulation · conduction · convection · radiation · evaporation · tropism · auxin · phototropism · geotropism · hydrotropism · thigmotropism · nastic movement · positive tropism · negative tropism
+
+---
+
+## Learning Activities
+
+### Activity 1 — I DO: Building the Big Picture — Concept Map
+
+#### The Connecting Idea
+
+Over the past two weeks, every organism and every mechanism we have studied shares one underlying logic:
+
+> **All living things must detect changes in their environment and respond in ways that maintain conditions for survival.**
+
+Whether it is a dugite detecting a hot rock surface and seeking shade, a kangaroo's hypothalamus triggering sweat glands as core temperature rises, or a banksia root following a moisture gradient through dry laterite soil — the structure is always the same: **stimulus → detection → processing → response**.
+
+#### Class Concept Map
+
+![Concept map biology organisms respond environmental change thermoregulation tropisms stimulus response Year 9](./img/y9-concept-map-stimulus-response-overview.png){fig-alt="Partially completed concept map with central node 'All organisms respond to environmental change' and branching nodes for Animals (endotherms, ectotherms, heat transfer) and Plants (tropisms, nastic movements, circadian rhythms)" width=660 fig-align="center"}
+
+As a class we will build the following concept map on the board. Copy it into your book as we go.
+
+**Central node:** *All organisms respond to environmental change*
+
+**Branch 1 — Animals:**
+
+- Stimulus–response pathway (stimulus → receptor → coordinator → effector → response)
+  - *Example:* heat → thermoreceptors in skin → hypothalamus → sweat glands → sweating (endotherm)
+  - *Example:* heat → skin receptors → nervous system → muscles → movement to shade (ectotherm)
+- Thermoregulation
+  - Endotherms: maintain stable temperature; use evaporation + insulation as primary mechanisms
+  - Ectotherms: temperature varies with environment; use conduction + radiation as primary mechanisms
+- Heat transfer: conduction · convection · radiation · evaporation
+  - Different proportions in endo vs ecto
+  - Both types use all four mechanisms
+
+**Branch 2 — Plants:**
+
+- Stimulus–response (no nervous system; hormone-mediated; growth-based)
+  - *Example:* unilateral light → photoreceptors in shoot tip → auxin redistribution → differential elongation → shoot bends toward light
+- Tropisms (permanent, directional growth)
+  - Phototropism (light → auxin → differential growth in shoot)
+  - Geotropism (gravity → auxin → opposite effect in shoot vs root)
+  - Hydrotropism (moisture gradient → root cap detection → root curves toward water)
+  - Thigmotropism (contact → differential growth → wrapping)
+- Nastic movements (non-directional, reversible)
+- Circadian rhythms (stomata, leaf movements)
+
+**Connecting threads:**
+
+- All responses serve survival and reproduction (link to adaptations from Weeks 3–4)
+- The stimulus–response model applies to both plants and animals — just with different mechanisms
+- WA context: almost every example we've used is a WA species in a WA ecosystem
+
+#### Comparing Animal and Plant Response Pathways
+
+| Feature | Animal response (e.g. endotherm thermoregulating) | Plant response (e.g. phototropism) |
+|---------|------|------|
+| **Speed** | Seconds to minutes (nervous system) | Hours to days (growth-based) |
+| **Coordinator** | Brain / hypothalamus / nervous system | Hormones (auxin, ABA, etc.) |
+| **Effector** | Muscles, glands, blood vessels | Zones of dividing/elongating cells |
+| **Reversibility** | Mostly reversible (muscle can relax; sweat stops) | Mostly irreversible (new cell walls are permanent) |
+| **Precision** | High — specific muscles activated | Lower — involves broad growth zones |
+
+**Key similarity:** Both require **detection of the stimulus** by a specialised receptor (thermoreceptors in skin; photoreceptors and root-cap cells in plants) and **a signal** that carries information to the effector (nerve impulses in animals; hormone gradients in plants).
+
+---
+
+### Activity 2 — WE DO: Extended Scenario — A Summer Heatwave in the South-West
+
+![South-west Western Australia jarrah forest summer heatwave landscape ectotherm endotherm plant responses](./img/y9-sw-wa-heatwave-scenario.png){fig-alt="Photograph of south-west WA jarrah forest on a hot summer day — dry leaf litter, open canopy, sunlight filtering through; a lizard visible on a rock and a kangaroo partially visible in the shade" width=660 fig-align="center"}
+
+**The scenario:**
+
+> It is January. The south-west WA jarrah forest has experienced 10 consecutive days of temperatures above 40°C with no rainfall. The following organisms are all present in the same patch of forest:
+>
+> - A **red kangaroo** resting in the shade of a large jarrah tree, occasionally licking its forearms
+> - A **bobtail lizard** that has retreated under a cool granite boulder
+> - A **jarrah tree** (*Eucalyptus marginata*) with lateral roots extending through dry laterite soil; its stomata closed since noon
+> - A **banksia seedling** that germinated six weeks ago near the base of a dead tree trunk, competing for a shaft of light filtering through the canopy
+
+In groups of three or four, answer the following questions. Be ready to share with the class.
+
+**Question 1 — Thermoregulation (Endotherm):**
+Describe *three* heat transfer mechanisms the red kangaroo is using at this moment. For each mechanism, state whether the kangaroo is gaining or losing heat, and explain why the mechanism is effective.
+
+**Question 2 — Thermoregulation (Ectotherm):**
+The bobtail lizard is pressed under the granite boulder. Identify the *primary* heat transfer mechanism it is using, and explain why sheltering under a rock is a more effective cooling strategy for the bobtail than for the kangaroo. (Hint: think about each animal's heat source.)
+
+**Question 3 — Plant Responses (Jarrah tree):**
+The jarrah tree's stomata have been closed since noon. Explain this response using the stimulus–response model:
+
+- What is the stimulus?
+- How does the plant detect it?
+- What is the response?
+- What is the adaptive benefit?
+
+**Question 4 — Plant Tropisms (Banksia seedling):**
+The banksia seedling is competing for the shaft of light near the dead tree trunk. Over the past six weeks, identify *two* tropisms the seedling has used — one to establish its roots and one to orient its shoot — and explain each using the auxin mechanism.
+
+**Question 5 — Synthesis:**
+Both the kangaroo and the banksia seedling are responding to the same environmental condition (extreme heat and dryness). Compare their response strategies:
+
+- Which response is faster?
+- Which response is reversible?
+- What fundamental feature do all these responses have in common?
+
+---
+
+### Activity 3 — YOU DO: Integrated Review
+
+![Year 9 biology review worksheet thermoregulation heat transfer tropisms consolidation integrated questions](./img/y9-review-consolidation-worksheet-header.png){fig-alt="Worksheet header combining a heat transfer diagram, an auxin tropism diagram, and an endotherm-ectotherm comparison table" width=580 fig-align="center"}
+
+Complete the worksheet: **164-review-and-consolidation-you-do.docx**
+
+The worksheet integrates all topics from Weeks 5 and 6: stimulus–response, endotherm/ectotherm strategies, heat transfer mechanisms, and plant tropisms. It includes a concept map completion task, scenario analysis, and one extended-response question.
+
+Work independently. You have **12 minutes**.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+1. The stimulus–response model applies to both plants and animals. Which of the following correctly describes the main difference in how each type of organism coordinates its response?
+   - A) Animals use chemical hormones; plants use nerve impulses
+   - B) Animals use nerve impulses and/or hormones for fast responses; plants use hormones that cause slow, growth-based responses
+   - C) Animals can only respond to temperature; plants can only respond to light
+   - D) Both use identical mechanisms — the only difference is speed
+
+2. A kangaroo is sweating and a banksia root is growing toward a moist patch of soil. These responses are similar in that both:
+   - A) Involve the hormone auxin redistributing in response to a stimulus
+   - B) Are responses to the same stimulus (water deficit) that help the organism maintain internal conditions suitable for survival
+   - C) Are coordinated by a hypothalamus detecting changes in core body temperature
+   - D) Are examples of negative feedback homeostasis in endotherms
+
+3. Which of the following best describes the adaptive significance of all the organism responses studied in Weeks 5 and 6?
+   - A) They allow organisms to evolve faster in response to environmental change
+   - B) They allow organisms to detect environmental changes and respond in ways that improve their chances of survival and reproduction
+   - C) They reduce the need for structural adaptations in WA organisms
+   - D) They only function in extreme environments such as deserts and polar regions
+
+4. A student says: "Tropisms are different from animal responses because plants don't have a nervous system." Which of the following is the most accurate and complete response to this student?
+   - A) The student is wrong — plants do have a simple nervous system made of specialised cells
+   - B) The student is correct; therefore tropisms are not true stimulus–response pathways
+   - C) The student is correct that plants lack a nervous system, but tropisms still follow a stimulus–response pattern — the coordination is chemical (hormonal) rather than neural
+   - D) The student is correct, but only phototropism is a true stimulus–response — other tropisms are purely mechanical
+
+5. **Extended short answer:** Choose **one** organism from the heatwave scenario in the WE DO activity. Describe **two** responses it is using to cope with the extreme heat, and for each response: (a) identify the stimulus, (b) describe the mechanism, and (c) explain the adaptive benefit. Use correct scientific vocabulary.
+
+---
+
+## Home-study
+
+**Review for the unit test** (if applicable). Using your notes and today's concept map, create a one-page summary of the key concepts from Weeks 5 and 6. Your summary should cover:
+
+- The stimulus–response model (with one animal and one plant example)
+- Endotherm vs ectotherm thermoregulation (including heat transfer mechanisms)
+- At least three plant tropisms and their mechanisms
+- At least two WA examples for each category

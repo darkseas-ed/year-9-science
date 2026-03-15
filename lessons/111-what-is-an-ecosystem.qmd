@@ -1,0 +1,171 @@
+---
+title: "What is an Ecosystem?"
+date: 2026-03-15
+subtitle: "Term 1, Week 1, Lesson 2"
+---
+
+## Do Now
+
+In your book, answer this question in 2–3 sentences:
+
+**"Think of a place in nature. What living and non-living things might you find there?"**
+
+Choose a place like:
+
+- A beach
+- A forest
+- A pond
+- Your backyard
+
+## Daily Review
+
+N/A — This is the first lesson of the Ecosystems topic.
+
+## Learning Intentions
+
+Today we are learning about what an ecosystem is and the relationships that exist within ecosystems.
+
+![Components of an Ecosystem](./img/y9-ecosystem.jpg){fig-alt="Components of an Ecosystem" width=600 fig-align="center"}
+
+## Success Criteria
+
+
+You will be successful if you have:
+
+- [ ] Defined what an ecosystem is
+- [ ] Identified examples of different ecosystems
+- [ ] Described the relationships that exist within an ecosystem
+
+## Keywords
+
+Ecosystem
+: A community of living organisms interacting with each other and their non-living environment.
+
+Habitat
+: The natural home or environment of an organism.
+
+Community
+: All the populations of different species living together in an area.
+
+Population
+: A group of organisms of the same species living in the same area.
+
+Organism
+: Any living thing.
+
+## Learning Activities
+
+### Activity 1 — I DO: What is an Ecosystem?
+
+An ecosystem is one of the most important concepts in biology. Let's explore what it means.
+
+#### Definition of an Ecosystem
+
+**An ecosystem is a community of living organisms interacting with each other and their non-living environment.**
+
+The word "ecosystem" comes from two parts:
+
+- **Eco** = home or environment
+- **System** = a set of connected things working together
+
+#### Examples of Ecosystems
+
+Ecosystems can be large or small:
+
+| Ecosystem | Examples of Living Things | Examples of Non-Living Things |
+|-----------|--------------------------|------------------------------|
+| **Rainforest** | Trees, monkeys, insects, birds, fungi | Soil, water, sunlight, rocks |
+| **Ocean** | Fish, whales, seaweed, coral, plankton | Salt water, sand, temperature, currents |
+| **Desert** | Cacti, lizards, snakes, scorpions | Sand, rocks, heat, limited water |
+| **Pond** | Frogs, fish, algae, water plants, insects | Water, mud, sunlight, temperature |
+| **Your backyard** | Grass, insects, birds, worms, bacteria | Soil, water, air, rocks |
+
+#### Relationships in Ecosystems
+
+Everything in an ecosystem is connected:
+
+- Animals eat plants
+- Animals eat other animals
+- Dead organisms decompose and return nutrients to the soil
+- Plants use nutrients from the soil to grow
+
+**Key idea:** If one part of an ecosystem changes, it can affect many other parts.
+
+#### Check for Understanding
+
+**Think about this:** What might happen to a pond ecosystem if all the frogs disappeared?
+
+*Answer: Insect populations might increase (since frogs eat insects), which could affect plants. Fish and birds that eat frogs would need to find other food sources.*
+
+---
+
+### Activity 2 — WE DO: Exploring a Local Ecosystem
+
+As a class, we will identify the living and non-living components of a local ecosystem.
+
+#### Our Local Ecosystem: The School Oval / Nearby Bushland
+
+**Discussion questions:**
+
+1. What living things can we find here?
+   - Plants: _______________
+   - Animals: _______________
+   - Microorganisms: _______________
+
+2. What non-living things are present?
+   - _______________
+   - _______________
+   - _______________
+
+3. How are these things connected?
+   - What eats what?
+   - What provides shelter for what?
+   - What depends on what?
+
+#### Class Ecosystem Map
+
+Together, we will create a simple diagram showing the connections in our local ecosystem.
+
+---
+
+### Activity 3 — YOU DO: Design Your Own Ecosystem
+
+Complete the worksheet: **111-what-is-an-ecosystem-you-do.docx**
+
+You will:
+
+- Choose an ecosystem to draw and label
+- Identify at least 5 living things and 5 non-living things
+- Show the connections between them
+
+Work independently. You have 12 minutes to complete the worksheet.
+
+---
+
+## Notes
+
+Use this space to write any important points from today's lesson.
+
+---
+
+## Reflection
+
+### Exit Ticket
+
+On a piece of paper or in your book, write:
+
+**Your own definition of an ecosystem in ONE sentence.**
+
+Your definition should:
+
+- Be in your own words (not copied from the board)
+- Include both living and non-living things
+- Mention that things interact or are connected
+
+Hand this in before you leave.
+
+---
+
+## Home-study
+
+Go outside at home (backyard, park, or any natural area). List 5 living things and 5 non-living things you can see. Bring your list to the next lesson.
