@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.28">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Comparing Heat Transfer in Endotherms and Ectotherms</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/clipboard/clipboard.min.js"></script>
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/popper.min.js"></script>
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/anchor.min.js"></script>
+<link href="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="161-heat-transfer-endotherms-ectotherms_files/libs/quarto-html/quarto-syntax-highlighting-49e51e44f424ea8c7044b429bdbbbfe2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="161-heat-transfer-endotherms-ectotherms_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="161-heat-transfer-endotherms-ectotherms_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="161-heat-transfer-endotherms-ectotherms_files/libs/bootstrap/bootstrap-1a9011c99ff3470dca5095ea45ed0705.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#do-now" id="toc-do-now" class="nav-link active" data-scroll-target="#do-now"><span class="header-section-number">1</span> Do Now</a></li>
+  <li><a href="#daily-review" id="toc-daily-review" class="nav-link" data-scroll-target="#daily-review"><span class="header-section-number">2</span> Daily Review</a></li>
+  <li><a href="#learning-intentions" id="toc-learning-intentions" class="nav-link" data-scroll-target="#learning-intentions"><span class="header-section-number">3</span> Learning Intentions</a></li>
+  <li><a href="#success-criteria" id="toc-success-criteria" class="nav-link" data-scroll-target="#success-criteria"><span class="header-section-number">4</span> Success Criteria</a></li>
+  <li><a href="#keywords" id="toc-keywords" class="nav-link" data-scroll-target="#keywords"><span class="header-section-number">5</span> Keywords</a></li>
+  <li><a href="#learning-activities" id="toc-learning-activities" class="nav-link" data-scroll-target="#learning-activities"><span class="header-section-number">6</span> Learning Activities</a>
+  <ul class="collapse">
+  <li><a href="#activity-1-i-do-how-heat-moves-four-mechanisms" id="toc-activity-1-i-do-how-heat-moves-four-mechanisms" class="nav-link" data-scroll-target="#activity-1-i-do-how-heat-moves-four-mechanisms"><span class="header-section-number">6.1</span> Activity 1 — I DO: How Heat Moves — Four Mechanisms</a></li>
+  <li><a href="#activity-2-we-do-analysing-heat-transfer-in-wa-animals" id="toc-activity-2-we-do-analysing-heat-transfer-in-wa-animals" class="nav-link" data-scroll-target="#activity-2-we-do-analysing-heat-transfer-in-wa-animals"><span class="header-section-number">6.2</span> Activity 2 — WE DO: Analysing Heat Transfer in WA Animals</a></li>
+  <li><a href="#activity-3-you-do-heat-transfer-and-thermoregulation" id="toc-activity-3-you-do-heat-transfer-and-thermoregulation" class="nav-link" data-scroll-target="#activity-3-you-do-heat-transfer-and-thermoregulation"><span class="header-section-number">6.3</span> Activity 3 — YOU DO: Heat Transfer and Thermoregulation</a></li>
+  </ul></li>
+  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">7</span> Notes</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection"><span class="header-section-number">8</span> Reflection</a></li>
+  <li><a href="#home-study" id="toc-home-study" class="nav-link" data-scroll-target="#home-study"><span class="header-section-number">9</span> Home-study</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Comparing Heat Transfer in Endotherms and Ectotherms</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">Invalid Date</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-heat-transfer-suite.png" class="img-fluid figure-img" alt="Composite image showing a kangaroo panting, a lizard basking on a rock, and a penguin huddling — illustrating contrasting heat transfer strategies" width="620"></p>
+<figcaption>Kangaroo evaporative cooling lizard basking rock conduction radiation heat transfer thermoregulation Western Australia</figcaption>
+</figure>
+</div>
+<section id="do-now" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="do-now"><span class="header-section-number">1</span> Do Now</h2>
+<p>Look at the following descriptions of two WA animals on a hot summer afternoon (40°C):</p>
+<ul>
+<li><strong>Animal A:</strong> A red kangaroo stands in partial shade and repeatedly licks the inside of its forearms, then holds them out in the breeze.</li>
+<li><strong>Animal B:</strong> A bobtail lizard retreats from open ground to shelter under a granite boulder, pressing its body flat against the cooler underside of a rock.</li>
+</ul>
+<p>In your book, answer these questions:</p>
+<ol type="1">
+<li>What is each animal trying to achieve by doing this?</li>
+<li>Which animal do you think is generating its own body heat, and which one is relying on the environment?</li>
+<li>Can you name the process by which the kangaroo’s licking helps it cool down?</li>
+</ol>
+<p>You have <strong>3 minutes</strong>.</p>
+</section>
+<section id="daily-review" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="daily-review"><span class="header-section-number">2</span> Daily Review</h2>
+<p>Answer the following 5 multiple choice questions in your book:</p>
+<ol type="1">
+<li>An animal that maintains a stable internal body temperature by generating its own metabolic heat is called:
+<ul>
+<li><ol type="A">
+<li>An ectotherm</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>A thermoconformer</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>An endotherm</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>A poikilotherm</li>
+</ol></li>
+</ul></li>
+<li>Which of the following is a WA ectotherm?
+<ul>
+<li><ol type="A">
+<li>Bilby</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Laughing kookaburra</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Echidna</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Dugite snake</li>
+</ol></li>
+</ul></li>
+<li>Why does a western blue-tongue lizard become sluggish on a cold winter morning?
+<ul>
+<li><ol type="A">
+<li>It hibernates during winter and is not fully awake</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Its body temperature falls with the environment, slowing enzyme activity</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>It conserves energy by reducing its metabolic rate deliberately</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Its muscles are too large to work efficiently in cold weather</li>
+</ol></li>
+</ul></li>
+<li>Homeostasis refers to:
+<ul>
+<li><ol type="A">
+<li>The process of adapting to a new environment over generations</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Maintaining a stable internal environment despite external changes</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>The growth of plant roots toward water</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>The response of an organism to a sudden predator</li>
+</ol></li>
+</ul></li>
+<li>Which of the following correctly describes a disadvantage of endothermy?
+<ul>
+<li><ol type="A">
+<li>The animal cannot remain active in cold conditions</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>The animal’s enzyme function varies with environmental temperature</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>The animal requires a much higher daily food intake than an ectotherm of similar size</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>The animal cannot regulate its own body temperature</li>
+</ol></li>
+</ul></li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Answers
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>C 2) D 3) B 4) B 5) C</li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+<section id="learning-intentions" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="learning-intentions"><span class="header-section-number">3</span> Learning Intentions</h2>
+<p>Today we are learning to identify the four physical mechanisms of heat transfer, and explain how both endotherms and ectotherms use each mechanism — in different proportions — to regulate body temperature.</p>
+</section>
+<section id="success-criteria" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="success-criteria"><span class="header-section-number">4</span> Success Criteria</h2>
+<p>You will be successful if you have:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">Defined conduction, convection, radiation and evaporation and given a biological example of each in a thermoregulation context</label></li>
+<li><label><input type="checkbox">Explained how endotherms primarily use evaporation and insulation (convection) to manage heat, while ectotherms rely more heavily on conduction and radiation from external sources</label></li>
+<li><label><input type="checkbox">Analysed a given scenario and correctly identified which heat transfer mechanism(s) are operating</label></li>
+</ul>
+</section>
+<section id="keywords" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="keywords"><span class="header-section-number">5</span> Keywords</h2>
+<dl>
+<dt>Conduction</dt>
+<dd>
+The transfer of heat energy by direct contact between objects at different temperatures. Heat flows from the warmer object to the cooler one. Example: a bobtail lizard absorbing heat by pressing its belly against a sun-warmed rock.
+</dd>
+<dt>Convection</dt>
+<dd>
+The transfer of heat through the movement of a fluid (air or water). In thermoregulation, insulating layers (fur, feathers, fat) trap still air or water, reducing convective heat loss to the environment. Example: a bilby’s fur trapping warm air close to its skin on a cold desert night.
+</dd>
+<dt>Radiation</dt>
+<dd>
+The transfer of heat energy as infrared electromagnetic radiation, without requiring a medium. All warm objects emit radiation. Example: a dugite snake absorbing solar radiation while basking in the morning sun; a kangaroo radiating heat from its large ears.
+</dd>
+<dt>Evaporation</dt>
+<dd>
+Heat is absorbed from the body’s surface as liquid water changes to water vapour, causing cooling. Example: a red kangaroo sweating and licking its sparsely furred forearms to maximise evaporative cooling.
+</dd>
+</dl>
+<hr>
+</section>
+<section id="learning-activities" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="learning-activities"><span class="header-section-number">6</span> Learning Activities</h2>
+<section id="activity-1-i-do-how-heat-moves-four-mechanisms" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="activity-1-i-do-how-heat-moves-four-mechanisms"><span class="header-section-number">6.1</span> Activity 1 — I DO: How Heat Moves — Four Mechanisms</h3>
+<section id="the-problem-of-heat-management" class="level4" data-number="6.1.1">
+<h4 data-number="6.1.1" class="anchored" data-anchor-id="the-problem-of-heat-management"><span class="header-section-number">6.1.1</span> The Problem of Heat Management</h4>
+<p>Both endotherms and ectotherms face the same physical challenge: heat always moves from warmer regions to cooler ones. The difference lies in <em>where</em> each type of animal gets its heat and <em>which mechanisms</em> it uses most.</p>
+<p>There are only <strong>four ways</strong> heat can move between an animal and its environment:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-heat-transfer-four-mechanisms.png" class="img-fluid figure-img" alt="Diagram showing the four mechanisms of heat transfer — conduction, convection, radiation and evaporation — with arrows indicating direction of heat flow in a biological context" width="620"></p>
+<figcaption>Four mechanisms heat transfer conduction convection radiation evaporation biology thermoregulation diagram</figcaption>
+</figure>
+</div>
+</section>
+<section id="conduction" class="level4" data-number="6.1.2">
+<h4 data-number="6.1.2" class="anchored" data-anchor-id="conduction"><span class="header-section-number">6.1.2</span> 1. Conduction</h4>
+<p>Heat transfers by <strong>direct physical contact</strong>. The rate of transfer depends on the temperature difference and the thermal conductivity of materials in contact.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Gaining heat by conduction</th>
+<th>Losing heat by conduction</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Ectotherm</strong></td>
+<td>Pressing body against warm rock or soil</td>
+<td>Moving to cool substrate; burrowing into moist soil</td>
+</tr>
+<tr class="even">
+<td><strong>Endotherm</strong></td>
+<td>Huddling with other animals; lying in sun-warmed soil</td>
+<td>Resting on cool ground; pressing against cold surface</td>
+</tr>
+</tbody>
+</table>
+<p><strong>WA example:</strong> On a winter morning, a western bearded dragon (<em>Pogona minor</em>) flattens its body against a dark bitumen road to maximise contact with the thermally conductive surface — far warmer than the surrounding air.</p>
+</section>
+<section id="convection" class="level4" data-number="6.1.3">
+<h4 data-number="6.1.3" class="anchored" data-anchor-id="convection"><span class="header-section-number">6.1.3</span> 2. Convection</h4>
+<p>Heat transfers through <strong>moving air or water</strong>. A warm animal in still air is surrounded by a thin layer of warm air; wind or water movement removes this layer, increasing heat loss (convective cooling).</p>
+<p><strong>Insulation as convection management:</strong> Fur, feathers and subcutaneous fat trap still air (or water) next to the skin, reducing convective heat loss. Feathers can be fluffed to increase the insulating layer; fur can be flattened in hot conditions to allow more convection.</p>
+<p><strong>WA examples:</strong></p>
+<ul>
+<li>A <strong>bilby</strong> curled in its burrow: still air trapped in its fur reduces heat loss overnight.</li>
+<li>A <strong>humpback whale</strong> calf: thick blubber layer traps heat against the body in cool ocean water.</li>
+<li>A <strong>wedge-tailed eagle</strong> soaring on thermal updrafts: convective air currents carry it effortlessly with minimal muscle energy.</li>
+</ul>
+</section>
+<section id="radiation" class="level4" data-number="6.1.4">
+<h4 data-number="6.1.4" class="anchored" data-anchor-id="radiation"><span class="header-section-number">6.1.4</span> 3. Radiation</h4>
+<p>All objects above absolute zero emit <strong>infrared radiation</strong>. The amount increases with temperature. Darker surfaces absorb more solar radiation; lighter surfaces reflect more.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-radiation-heat-transfer-animals.png" class="img-fluid figure-img" alt="Infrared thermography image of a lizard basking, showing heat distribution on its body surface relative to cool surroundings" width="580"></p>
+<figcaption>Infrared thermography lizard basking radiation heat transfer ectotherm body temperature</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Gaining heat by radiation</th>
+<th>Losing heat by radiation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Ectotherm</strong></td>
+<td>Basking in sunlight; positioning body perpendicular to sun’s rays</td>
+<td>Retreating to shade; burrowing underground</td>
+</tr>
+<tr class="even">
+<td><strong>Endotherm</strong></td>
+<td>Basking (some species); positioning in patches of sunlight</td>
+<td>Radiating heat from large blood-vessel-rich surfaces (kangaroo ears, elephant ears)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>WA examples:</strong></p>
+<ul>
+<li>A <strong>dugite snake</strong>, dark in colour, absorbs morning radiation rapidly to raise body temperature before activity.</li>
+<li>The <strong>red kangaroo’s</strong> large ears contain a dense network of blood vessels close to the skin surface — radiating excess body heat when the animal is active on hot days.</li>
+</ul>
+</section>
+<section id="evaporation" class="level4" data-number="6.1.5">
+<h4 data-number="6.1.5" class="anchored" data-anchor-id="evaporation"><span class="header-section-number">6.1.5</span> 4. Evaporation</h4>
+<p>When water evaporates from a surface, it removes heat. Every gram of water that evaporates takes approximately 2,430 J of heat energy with it — making evaporation the most powerful cooling mechanism available to animals in hot conditions.</p>
+<p><strong>Methods of evaporative cooling:</strong></p>
+<ul>
+<li><strong>Sweating</strong> (some mammals): sweat glands secrete water onto skin surface.</li>
+<li><strong>Panting</strong> (dogs, birds, some reptiles): rapid shallow breathing evaporates water from the respiratory tract.</li>
+<li><strong>Saliva spreading</strong>: kangaroos and wallabies lick the sparsely furred skin of their forearms, where dense superficial blood vessels allow rapid heat loss.</li>
+<li><strong>Gular fluttering</strong>: some birds rapidly vibrate the floor of the mouth to increase evaporation from moist mucous membranes.</li>
+</ul>
+<p><strong>WA example:</strong> The <strong>red kangaroo</strong> (<em>Osphranter rufus</em>) combines all four mechanisms simultaneously during a hot Kimberley afternoon: it seeks shade (reducing radiation gain), stands facing into any breeze (convection), rests on cool soil (conduction), and licks its forearms (evaporation).</p>
+</section>
+<section id="putting-it-together-endotherm-vs-ectotherm" class="level4" data-number="6.1.6">
+<h4 data-number="6.1.6" class="anchored" data-anchor-id="putting-it-together-endotherm-vs-ectotherm"><span class="header-section-number">6.1.6</span> Putting It Together — Endotherm vs Ectotherm</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-heat-budget-endo-ecto-comparison.png" class="img-fluid figure-img" alt="Side-by-side diagram of an endotherm (kangaroo) and ectotherm (lizard) showing arrows for heat gain and heat loss through each of the four mechanisms" width="640"></p>
+<figcaption>Heat budget endotherm ectotherm heat gain loss conduction convection radiation evaporation comparison diagram</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 14%">
+<col style="width: 40%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mechanism</th>
+<th>Endotherm (e.g.&nbsp;red kangaroo)</th>
+<th>Ectotherm (e.g.&nbsp;bobtail lizard)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Conduction</strong></td>
+<td>Minor — uses to lose heat in hot conditions</td>
+<td>Major — primary heat gain; presses body against warm substrate</td>
+</tr>
+<tr class="even">
+<td><strong>Convection</strong></td>
+<td>Major — insulation (fur) reduces loss in cold; convection used for cooling</td>
+<td>Moderate — moves between microclimates; burrows reduce convective loss at night</td>
+</tr>
+<tr class="odd">
+<td><strong>Radiation</strong></td>
+<td>Moderate — radiates excess heat via ears and sparsely furred areas</td>
+<td>Major — basking is primary heat gain; body orientation maximises/minimises absorption</td>
+</tr>
+<tr class="even">
+<td><strong>Evaporation</strong></td>
+<td>Major — sweating, licking, panting used when overheating</td>
+<td>Minor — limited by need to conserve water; some panting in extreme heat</td>
+</tr>
+<tr class="odd">
+<td><strong>Internal heat</strong></td>
+<td>High — continuous metabolic heat generation</td>
+<td>Near zero — essentially no internal heat generation for thermoregulation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="check-for-understanding" class="level4" data-number="6.1.7">
+<h4 data-number="6.1.7" class="anchored" data-anchor-id="check-for-understanding"><span class="header-section-number">6.1.7</span> Check for Understanding</h4>
+<p>For each scenario below, identify the <strong>primary heat transfer mechanism</strong> involved:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 47%">
+<col style="width: 52%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Scenario</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>An echidna curls into a ball, covering its sparse-furred underside with its spiny back</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A wedge-tailed eagle circles in a warm updraft, wings spread</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A bobtail lizard presses its dark dorsal surface toward the morning sun</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A bilby pants rapidly at the entrance to its burrow on a 38°C afternoon</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A dugite snake slides under a cool, damp sandstone slab at midday</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Answers: huddled echidna — conduction (reducing loss); eagle soaring — convection; bobtail toward sun — radiation; bilby panting — evaporation; dugite under rock — conduction (gaining cool)</em></p>
+<hr>
+</section>
+</section>
+<section id="activity-2-we-do-analysing-heat-transfer-in-wa-animals" class="level3" data-number="6.2">
+<h3 data-number="6.2" class="anchored" data-anchor-id="activity-2-we-do-analysing-heat-transfer-in-wa-animals"><span class="header-section-number">6.2</span> Activity 2 — WE DO: Analysing Heat Transfer in WA Animals</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-heat-transfer-wa-animals-collage.png" class="img-fluid figure-img" alt="Six photographs of WA animals thermoregulating: kangaroo licking forearm, lizard basking, penguin huddling, bilby in burrow, eagle soaring, snake under rock" width="640"></p>
+<figcaption>Western Australia animals thermoregulating kangaroo lizard eagle bilby snake heat transfer examples</figcaption>
+</figure>
+</div>
+<p>As a class, we will examine six photographs of WA animals and for each one:</p>
+<ol type="1">
+<li>Identify whether the animal is an endotherm or ectotherm.</li>
+<li>State whether the animal is gaining or losing heat.</li>
+<li>Identify the <strong>primary</strong> heat transfer mechanism operating.</li>
+<li>Explain why this mechanism is effective in the context shown.</li>
+</ol>
+<section id="guided-analysis-table" class="level4" data-number="6.2.1">
+<h4 data-number="6.2.1" class="anchored" data-anchor-id="guided-analysis-table"><span class="header-section-number">6.2.1</span> Guided Analysis Table</h4>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 9%">
+<col style="width: 15%">
+<col style="width: 29%">
+<col style="width: 22%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Photo</th>
+<th>Animal</th>
+<th style="text-align: center;">Endo / Ecto</th>
+<th style="text-align: center;">Gaining or losing heat?</th>
+<th style="text-align: center;">Primary mechanism</th>
+<th>Why it works</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Red kangaroo licking forearm</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Dugite snake basking on rock</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Little penguin chick huddling in colony</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Bilby sheltering in a deep burrow</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Wedge-tailed eagle soaring on thermal</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Bobtail lizard sheltering under leaf litter</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="discussion-questions" class="level4" data-number="6.2.2">
+<h4 data-number="6.2.2" class="anchored" data-anchor-id="discussion-questions"><span class="header-section-number">6.2.2</span> Discussion Questions</h4>
+<ul>
+<li>Could an ectotherm survive in Antarctica? What would be the specific problem in terms of heat transfer mechanisms?</li>
+<li>Why does the kangaroo lick its forearms rather than its back? What anatomical features make the forearms effective for evaporative cooling?</li>
+<li>A student says “ectotherms can’t use evaporation to cool down.” Is this accurate? How would you correct this statement?</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="activity-3-you-do-heat-transfer-and-thermoregulation" class="level3" data-number="6.3">
+<h3 data-number="6.3" class="anchored" data-anchor-id="activity-3-you-do-heat-transfer-and-thermoregulation"><span class="header-section-number">6.3</span> Activity 3 — YOU DO: Heat Transfer and Thermoregulation</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/y9-heat-transfer-worksheet-header.png" class="img-fluid figure-img" alt="Worksheet header image showing diagrams of the four heat transfer mechanisms with animal silhouettes" width="580"></p>
+<figcaption>Heat transfer mechanisms worksheet Year 9 biology conduction convection radiation evaporation thermoregulation</figcaption>
+</figure>
+</div>
+<p>Complete the worksheet: <strong>161-heat-transfer-endotherms-ectotherms-you-do.docx</strong></p>
+<p>You will define and diagram the four mechanisms, classify scenarios, and explain how a chosen WA animal uses two different mechanisms to thermoregulate.</p>
+<p>Work independently. You have <strong>10 minutes</strong>.</p>
+<hr>
+</section>
+</section>
+<section id="notes" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="notes"><span class="header-section-number">7</span> Notes</h2>
+<p>Use this space to write any important points from today’s lesson.</p>
+<hr>
+</section>
+<section id="reflection" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="reflection"><span class="header-section-number">8</span> Reflection</h2>
+<ol type="1">
+<li>Which heat transfer mechanism involves direct contact between two surfaces?
+<ul>
+<li><ol type="A">
+<li>Convection</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Radiation</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Evaporation</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Conduction</li>
+</ol></li>
+</ul></li>
+<li>A red kangaroo licks its sparsely furred forearms on a hot day. Which mechanism is primarily responsible for the cooling effect?
+<ul>
+<li><ol type="A">
+<li>Conduction</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Convection</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Radiation</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Evaporation</li>
+</ol></li>
+</ul></li>
+<li>Which statement best explains why ectotherms rely more heavily on radiation than endotherms for heat gain?
+<ul>
+<li><ol type="A">
+<li>Ectotherms have darker skin that absorbs more radiation</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Ectotherms generate little internal heat and so must obtain it from external sources, including solar radiation</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Radiation is only effective for animals without fur or feathers</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Endotherms cannot absorb radiation because their insulation reflects it</li>
+</ol></li>
+</ul></li>
+<li>A bobtail lizard burrows into cool, moist sand at midday. Which mechanism is helping it lose heat?
+<ul>
+<li><ol type="A">
+<li>Radiation — the sand emits infrared energy</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Convection — air circulates through the burrow</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Conduction — direct contact with the cooler substrate transfers heat away</li>
+</ol></li>
+<li><ol start="4" type="A">
+<li>Evaporation — moisture in the sand evaporates from the lizard’s skin</li>
+</ol></li>
+</ul></li>
+<li><strong>Short answer:</strong> A student claims that endotherms use evaporation to cool down but ectotherms do not. Evaluate this claim. Is it fully accurate? Use at least one WA example in your answer.</li>
+</ol>
+<hr>
+</section>
+<section id="home-study" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="home-study"><span class="header-section-number">9</span> Home-study</h2>
+<p>Research one WA animal not mentioned in today’s lesson. Describe <strong>two</strong> heat transfer mechanisms it uses in thermoregulation — one for gaining heat and one for losing heat — and identify whether it is an endotherm or ectotherm. Write 3–4 sentences for each mechanism.</p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
