@@ -8,36 +8,11 @@ title: "Y9 Science"
 
 | Term | Strand                  |
 |------|-------------------------|
-| 1    | [Biology]( ./term-1-outline.qmd)                 |
+| 1    | Biology                 |
 | 2    | Chemistry               |
 | 3    | Physical Science        |
 | 4    | Earth and Space Science |
 
-## Coordinators
-
-Coordinators:
-
-- Gavin Coombes (KEA)
-- Christie Halstead (Ad)
-- Jeewani Ponsuge
-
-## Assessments
-8 assessments (2 per term) worth ~12.5% each
-
-Basic structure - 3x tests, 3x Science Investigations/scientific report, 2x research assessments
-
-Year 10 – 3x tests, 2x exams, 2x Science Investigations/scientific report, 1x research assessment
-
-Tasks:
-
-* Task 1: Biology test (W7 - 10%)
-* Task 2: Bean Growth Investigation (W9 – 15%)
-* Task 3: Trends in Periodic Table (Research) (W5 – 12.5%)
-* Task 4: Chemistry test (W10 – 12.5%)
-* Task 5: Optics investigation
-* Task 6: Physics Test
-* Task 7: Greenhouse Effect Research and Investigation
-* Task 8: Earth Test
 
 ## Lessons
 
@@ -84,3 +59,21 @@ Tasks:
 - [Hydrotropism and Other Plant Responses](./163-hydrotropism-and-other-plant-responses.qmd)
 - [Review and Consolidation I](./164-review-and-consolidation.qmd)
 
+
+## Assessments
+8 assessments (2 per term) worth ~12.5% each
+
+Basic structure - 3x tests, 3x Science Investigations/scientific report, 2x research assessments
+
+Year 10 – 3x tests, 2x exams, 2x Science Investigations/scientific report, 1x research assessment
+
+Tasks:
+
+* Task 1: Biology test (W7 - 10%)
+* Task 2: Bean Growth Investigation (W9 – 15%)
+* Task 3: Trends in Periodic Table (Research) (W5 – 12.5%)
+* Task 4: Chemistry test (W10 – 12.5%)
+* Task 5: Optics investigation
+* Task 6: Physics Test
+* Task 7: Greenhouse Effect Research and Investigation
+* Task 8: Earth Test
